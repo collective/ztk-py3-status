@@ -1,5 +1,5 @@
-Scripts to determine the Python 3 porting status of various Zope packages
-=========================================================================
+Scripts to determine the Python 3 porting status of various Plone packages
+==========================================================================
 
 These scripts are run from cron to produce JSON files consumed by JavaScript in
 https://github.com/ProgrammersOfVilnius/zope3.pov.lt/tree/master/py3
@@ -7,12 +7,14 @@ https://github.com/ProgrammersOfVilnius/zope3.pov.lt/tree/master/py3
 The *actual* cron script is at https://gist.github.com/mgedmin/4686862
 
 
-Usage::
+Usage:
+
+.. code-block:: shell
 
   ./update.sh
 
-This takes a while (8 minutes just to get PyPI status; more to download
-source distributions).
+This takes a while
+(8 minutes just to get PyPI status; more to download source distributions).
 
 Example output::
 
@@ -34,16 +36,24 @@ Example output::
 Caching
 -------
 
-The ./get_pypi_status.py script caches metadata received from PyPI in
-./cache/meta/\*.json for 24 hours by default.  You can override these settings
-with ::
+``get_pypi_status.py`` script caches metadata received from PyPI in ``./cache/meta/\*.json`` for 24 hours by default.
+You can override these settings with:
+
+.. code-block:: shell
 
   ./get_pypi_status.py --cache-dir=~/.cache/pypi-meta --cache-max-age=3600
 
-The sdist cache used by get_deps.py is (a) configurable, and (b) compatible
-with buildout.  If you use a shared buildout cache, you can speed up
-the initial dependency extraction with ::
+The sdist cache used by ``get_deps.py`` is:
+
+a) configurable, and
+
+b) compatible with buildout
+
+If you use a shared buildout cache,
+you can speed up the initial dependency extraction with:
+
+.. code-block:: shell
 
   ./get_deps.py --cache-dir=~/.buildout/cache/dist < status.json > deps.json
 
-(you'll have to edit update.sh)
+.. note:: You'll have to edit ``update.sh``
