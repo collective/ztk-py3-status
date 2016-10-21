@@ -18,26 +18,26 @@ echo "pypi"
 echo "deps"
 /srv/ztk-py3-status/get_deps.py --cache-dir=$cache_dir < status.json | sponge deps.json
 echo "blockers"
-/srv/ztk-py3-status/count_blockers.py < deps.json | sponge data.json
+/srv/ztk-py3-status/count_blockers.py < deps.json | sponge html/data.json
 echo "graphs"
-/srv/ztk-py3-status/depgraph.py < data.json | sponge deps.dot
+/srv/ztk-py3-status/depgraph.py < html/data.json | sponge deps.dot
 
 echo "big graphs"
-neato -Tsvg deps.dot | sponge deps.svg
-neato -Tpng deps.dot | sponge deps.png
-convert deps.png -resize 128x128 - | sponge deps-thumb.png
+neato -Tsvg deps.dot | sponge html/deps.svg
+neato -Tpng deps.dot | sponge html/deps.png
+convert html/deps.png -resize 128x128 - | sponge html/deps-thumb.png
 
-mkdir -p deps/
-mkdir -p deps-with-extras/
-packages=$(/srv/ztk-py3-status/list_packages.py < data.json)
+mkdir -p html/deps/
+mkdir -p html/deps-with-extras/
+packages=$(/srv/ztk-py3-status/list_packages.py < html/data.json)
 for pkg in $packages; do
     echo "graphs for $pkg"
-    /srv/ztk-py3-status/depgraph.py $pkg -b < data.json | sponge deps/$pkg.dot
-    /srv/ztk-py3-status/depgraph.py $pkg -a -e < data.json | sponge deps-with-extras/$pkg.dot
+    /srv/ztk-py3-status/depgraph.py $pkg -b < html/data.json | sponge html/deps/$pkg.dot
+    /srv/ztk-py3-status/depgraph.py $pkg -a -e < html/data.json | sponge html/deps-with-extras/$pkg.dot
 
-    dot -Tsvg deps/$pkg.dot | sponge deps/$pkg.svg
-    dot -Tsvg deps-with-extras/$pkg.dot | sponge deps-with-extras/$pkg.svg
+    dot -Tsvg html/deps/$pkg.dot | sponge html/deps/$pkg.svg
+    dot -Tsvg html/deps-with-extras/$pkg.dot | sponge html/deps-with-extras/$pkg.svg
 
-    dot -Tpng deps/$pkg.dot | sponge deps/$pkg.png
-    dot -Tpng deps-with-extras/$pkg.dot | sponge deps-with-extras/$pkg.png
+    dot -Tpng html/deps/$pkg.dot | sponge html/deps/$pkg.png
+    dot -Tpng html/deps-with-extras/$pkg.dot | sponge html/deps-with-extras/$pkg.png
 done
