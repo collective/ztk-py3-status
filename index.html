@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Plone on Python 3</title>
+  <link rel="stylesheet" href="style.css" />
+  <style type="text/css">
+    #image-format-choice { position: absolute; top: 2em; right: 2em; }
+
+    #support-table     { margin-left: -6em; }
+    #support-table     { margin-bottom: 2em; table-layout: fixed; }
+    #support-table     { border-spacing: 1px; }
+    #support-table th  { vertical-align: bottom; }
+
+    .version-column    { min-width: 1em; }
+    .blockers, .blocks { min-width: 5em; }
+
+    .prefer-svg a.png  { display: none !important; }
+    .prefer-png a.svg  { display: none !important; }
+
+    /* progress bar */
+    progress           { border: 1px solid white; background: #fdd; }
+    progress::-webkit-progress-bar   { background: #fdd; }
+    progress::-webkit-progress-value { background: #dfd; }
+    progress::-moz-progress-bar      { background: #dfd; }
+
+    /* version column */
+    td.version         { text-align: center; white-space: nowrap; }
+    td.unreleased      { color: #eee; }
+
+    /* vcs column */
+    td.vcs             { padding: 0; white-space: nowrap; text-align: center; }
+    td.vcs > a:link    { text-align: center; padding-left: 0.5em; padding-right: 0.5em; padding-top: 2px; padding-bottom: 2px; margin-left: 1px; }
+    td.vcs > a:link    { color: white; text-decoration: none; display: inline-block; }
+    td.vcs > a:visited { color: #eee; }
+    a.git              { background: #da4; }
+    a.svn              { background: #c44; }
+
+    /* supported/unsupported flags */
+    td.supported       { min-width: 2em; text-align: center; background: #dfd; color: #000; }
+    td.unsupported     { min-width: 2em; text-align: center; background: #fdd; color: #000; }
+    td.probably        { min-width: 2em; text-align: center; background: #efd; color: #444; }
+    td.unknown         { min-width: 2em; text-align: center; background: #fdfdfd; color: #eee; }
+
+    /* blocker counts */
+    td.blockers,    td.blocks         { text-align: center; }
+    td.blockers,    td.blocks         { background: #fdd; color: #c44; }
+    td.no-blockers, td.blocks-nothing { background: #dfd; color: #484; }
+    td.blockers-na, td.blocks-na      { background: #fdfdfd; color: #eee; }
+
+    /* depgraph column */
+    td.depgraph                       { text-align: center; padding: 0; white-space: nowrap; }
+
+    a.png:link, a.png:visited,
+    a.svg:link, a.svg:visited         { display: inline-block; text-decoration: none; padding: 2px 4px; margin-left: 1px; color: white; }
+    a.png              { background: #4c4; }
+    a.svg              { background: #4cc; }
+
+    /* build status column */
+    td.buildstatus                    { padding-top: 0; padding-bottom: 0; }
+    td.buildstatus img                { vertical-align: middle; }
+
+    /* highlight on hover */
+    tbody > tr:hover   { background: #ffd; }
+
+    /* sidebar */
+
+    .sidebar {
+      float: right;
+      margin-left: 2em;
+    }
+  </style>
+  <script type="text/javascript" src="jquery.min.js"></script>
+  <script type="text/javascript" src="logic.js"></script>
+</head>
+<body>
+  <h1>Unofficial Plone on Python 3 status page</h1>
+
+  <progress id="progress" style="display: none"></progress>
+
+  <div id="image-format-choice">
+    Do you prefer <a href="#" class="png" id="use-png">PNG</a> or
+    <a href="#" class="svg" id="use-svg">SVG</a>?
+  </div>
+
+  <table id="support-table" class="prefer-svg">
+    <tr>
+      <td>Loading...</td>
+    </tr>
+  </table>
+
+  <div class="sidebar">
+    <a href="deps.svg" title="See the dependency graph"><img src="deps-thumb.png" alt="Dependency graph"></a>
+  </div>
+
+  <p>This page lists all projects needed by Plone 5.1 buildout.coredev,
+    shows the latest version published on the <a href="http://pypi.python.org/pypi">Python Package Index</a>
+    and the explicitly declared supported Python versions from trove classifiers for that version.</p>
+
+  <p><span id="last-modified"></span></p>
+
+  <div class="footer">
+    Site maintained by <a href="https://github.com/gforcada">Gil Forcada Codinachs</a>.
+    This site uses <a href="http://validator.w3.org/check/referer">valid</a> HTML and CSS.<br />.
+  </div>
+
+</body>
+</html>

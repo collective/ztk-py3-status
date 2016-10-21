@@ -1,0 +1,93 @@
+body {
+    margin-left: 10em;
+    max-width: 42em;
+    font: 90% Verdana, Helvetica, Arial, sans-serif;
+    background: white;
+}
+h1 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    color: #666699;
+    font-weight: normal;
+    border-bottom: none;
+}
+a {
+    color: #436976;
+}
+a:visited {
+    color: purple;
+}
+a:active, a:hover {
+    color: #b22222;
+}
+div.links {
+    color: black;
+    line-height: normal;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #cccccc;
+    padding-top: 6px;
+    padding-left: 0.5em;
+    padding-bottom: 6px;
+}
+div.links a {
+    color: gray;
+    padding: 0em 1em;
+    text-decoration: none;
+    font-size: 100%;
+    font-weight: bold;
+    text-transform: lowercase;
+    border: none;
+}
+div.links a:visited {
+    color: gray;
+}
+div.links a:active,
+div.links a:hover {
+    color: #b22222;
+}
+span.key {
+    border: 1px outset gray;
+    padding: 0px 3px;
+}
+em.pov {
+    font-weight: normal
+}
+a.footnote {
+    font-size: x-small;
+    vertical-align: top;
+    line-height: normal;
+    margin: 0px 1px;
+    text-decoration: none;
+}
+p.footnote {
+    margin-left: 2em;
+    margin-right: 2em;
+    font-size: small;
+}
+p.footnote sup {
+    font-size: x-small;
+    vertical-align: top;
+    line-height: normal;
+    margin: 0px 1px;
+    text-decoration: none;
+}
+div.footer {
+    margin-top: 5em;
+    font-size: x-small;
+    color: gray;
+    margin-left: 5em;
+}
+div.footer a {
+    color: gray;
+    font-weight: normal;
+    text-decoration: none;
+    border-bottom: 1px dotted gray;
+}
+div.footer a:visited {
+    color: gray;
+}
+div.footer a:active,
+div.footer a:hover {
+    color: #b22222;
+}
