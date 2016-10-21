@@ -261,7 +261,7 @@ def main():
                       file=sys.stderr)
     else:
         include = {node for node in deps.nodes if deps.edges(node)}
-        title = "zope.* deps"
+        title = "Plone deps"
 
     if args.explicit_extras:
         args.extras = True
