@@ -1,0 +1,1732 @@
+[
+  {
+    "github_web_url": "https://github.com/zopefoundation/AccessControl",
+    "name": "AccessControl",
+    "source_web_url": "https://github.com/zopefoundation/AccessControl"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Acquisition",
+    "name": "Acquisition",
+    "source_web_url": "https://github.com/zopefoundation/Acquisition"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/AuthEncoding",
+    "name": "AuthEncoding",
+    "source_web_url": "https://github.com/zopefoundation/AuthEncoding"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/BTrees",
+    "name": "BTrees",
+    "source_web_url": "https://github.com/zopefoundation/BTrees"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/CMF-buildout",
+    "name": "CMF-buildout",
+    "source_web_url": "https://github.com/zopefoundation/CMF-buildout"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/DateTime",
+    "name": "DateTime",
+    "source_web_url": "https://github.com/zopefoundation/DateTime"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/DocumentTemplate",
+    "name": "DocumentTemplate",
+    "source_web_url": "https://github.com/zopefoundation/DocumentTemplate"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/ExtensionClass",
+    "name": "ExtensionClass",
+    "source_web_url": "https://github.com/zopefoundation/ExtensionClass"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Missing",
+    "name": "Missing",
+    "source_web_url": "https://github.com/zopefoundation/Missing"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/MultiMapping",
+    "name": "MultiMapping",
+    "source_web_url": "https://github.com/zopefoundation/MultiMapping"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Persistence",
+    "name": "Persistence",
+    "source_web_url": "https://github.com/zopefoundation/Persistence"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.BTreeFolder2",
+    "name": "Products.BTreeFolder2",
+    "source_web_url": "https://github.com/zopefoundation/Products.BTreeFolder2"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.CMFActionIcons",
+    "name": "Products.CMFActionIcons",
+    "source_web_url": "https://github.com/zopefoundation/Products.CMFActionIcons"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.CMFCalendar",
+    "name": "Products.CMFCalendar",
+    "source_web_url": "https://github.com/zopefoundation/Products.CMFCalendar"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.CMFCore",
+    "name": "Products.CMFCore",
+    "source_web_url": "https://github.com/zopefoundation/Products.CMFCore"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.CMFDefault",
+    "name": "Products.CMFDefault",
+    "source_web_url": "https://github.com/zopefoundation/Products.CMFDefault"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.CMFTopic",
+    "name": "Products.CMFTopic",
+    "source_web_url": "https://github.com/zopefoundation/Products.CMFTopic"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.CMFUid",
+    "name": "Products.CMFUid",
+    "source_web_url": "https://github.com/zopefoundation/Products.CMFUid"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.DCWorkflow",
+    "name": "Products.DCWorkflow",
+    "source_web_url": "https://github.com/zopefoundation/Products.DCWorkflow"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.ExternalEditor",
+    "name": "Products.ExternalEditor",
+    "source_web_url": "https://github.com/zopefoundation/Products.ExternalEditor"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.ExternalMethod",
+    "name": "Products.ExternalMethod",
+    "source_web_url": "https://github.com/zopefoundation/Products.ExternalMethod"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.FSDump",
+    "name": "Products.FSDump",
+    "source_web_url": "https://github.com/zopefoundation/Products.FSDump"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.GenericSetup",
+    "name": "Products.GenericSetup",
+    "source_web_url": "https://github.com/zopefoundation/Products.GenericSetup"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.LongRequestLogger",
+    "name": "Products.LongRequestLogger",
+    "source_web_url": "https://github.com/zopefoundation/Products.LongRequestLogger"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.MIMETools",
+    "name": "Products.MIMETools",
+    "source_web_url": "https://github.com/zopefoundation/Products.MIMETools"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.MailHost",
+    "name": "Products.MailHost",
+    "source_web_url": "https://github.com/zopefoundation/Products.MailHost"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.OFSP",
+    "name": "Products.OFSP",
+    "source_web_url": "https://github.com/zopefoundation/Products.OFSP"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.PluggableAuthService",
+    "name": "Products.PluggableAuthService",
+    "source_web_url": "https://github.com/zopefoundation/Products.PluggableAuthService"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.PluginRegistry",
+    "name": "Products.PluginRegistry",
+    "source_web_url": "https://github.com/zopefoundation/Products.PluginRegistry"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.PythonScripts",
+    "name": "Products.PythonScripts",
+    "source_web_url": "https://github.com/zopefoundation/Products.PythonScripts"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.SQLAlchemyDA",
+    "name": "Products.SQLAlchemyDA",
+    "source_web_url": "https://github.com/zopefoundation/Products.SQLAlchemyDA"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.Sessions",
+    "name": "Products.Sessions",
+    "source_web_url": "https://github.com/zopefoundation/Products.Sessions"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.SiteErrorLog",
+    "name": "Products.SiteErrorLog",
+    "source_web_url": "https://github.com/zopefoundation/Products.SiteErrorLog"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.StandardCacheManagers",
+    "name": "Products.StandardCacheManagers",
+    "source_web_url": "https://github.com/zopefoundation/Products.StandardCacheManagers"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.TemporaryFolder",
+    "name": "Products.TemporaryFolder",
+    "source_web_url": "https://github.com/zopefoundation/Products.TemporaryFolder"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.ZCTextIndex",
+    "name": "Products.ZCTextIndex",
+    "source_web_url": "https://github.com/zopefoundation/Products.ZCTextIndex"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.ZCatalog",
+    "name": "Products.ZCatalog",
+    "source_web_url": "https://github.com/zopefoundation/Products.ZCatalog"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.ZNagios",
+    "name": "Products.ZNagios",
+    "source_web_url": "https://github.com/zopefoundation/Products.ZNagios"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.ZSQLMethods",
+    "name": "Products.ZSQLMethods",
+    "source_web_url": "https://github.com/zopefoundation/Products.ZSQLMethods"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Products.ZopeVersionControl",
+    "name": "Products.ZopeVersionControl",
+    "source_web_url": "https://github.com/zopefoundation/Products.ZopeVersionControl"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Record",
+    "name": "Record",
+    "source_web_url": "https://github.com/zopefoundation/Record"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/RestrictedPython",
+    "name": "RestrictedPython",
+    "source_web_url": "https://github.com/zopefoundation/RestrictedPython"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/ZConfig",
+    "name": "ZConfig",
+    "source_web_url": "https://github.com/zopefoundation/ZConfig"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/ZEO",
+    "name": "ZEO",
+    "source_web_url": "https://github.com/zopefoundation/ZEO"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/ZODB",
+    "name": "ZODB",
+    "source_web_url": "https://github.com/zopefoundation/ZODB"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/ZODB3",
+    "name": "ZODB3",
+    "source_web_url": "https://github.com/zopefoundation/ZODB3"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/ZServer",
+    "name": "ZServer",
+    "source_web_url": "https://github.com/zopefoundation/ZServer"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/Zope",
+    "name": "Zope",
+    "source_web_url": "https://github.com/zopefoundation/Zope"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/ZopeUndo",
+    "name": "ZopeUndo",
+    "source_web_url": "https://github.com/zopefoundation/ZopeUndo"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/bobo",
+    "name": "bobo",
+    "source_web_url": "https://github.com/zopefoundation/bobo"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/cipher.background",
+    "name": "cipher.background",
+    "source_web_url": "https://github.com/zopefoundation/cipher.background"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/cipher.configstore",
+    "name": "cipher.configstore",
+    "source_web_url": "https://github.com/zopefoundation/cipher.configstore"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/cipher.encryptingstorage",
+    "name": "cipher.encryptingstorage",
+    "source_web_url": "https://github.com/zopefoundation/cipher.encryptingstorage"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/cipher.googlepam",
+    "name": "cipher.googlepam",
+    "source_web_url": "https://github.com/zopefoundation/cipher.googlepam"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/cipher.lazydate",
+    "name": "cipher.lazydate",
+    "source_web_url": "https://github.com/zopefoundation/cipher.lazydate"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/cipher.longrequest",
+    "name": "cipher.longrequest",
+    "source_web_url": "https://github.com/zopefoundation/cipher.longrequest"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/cipher.session",
+    "name": "cipher.session",
+    "source_web_url": "https://github.com/zopefoundation/cipher.session"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/cmf.pt",
+    "name": "cmf.pt",
+    "source_web_url": "https://github.com/zopefoundation/cmf.pt"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/five.customerize",
+    "name": "five.customerize",
+    "source_web_url": "https://github.com/zopefoundation/five.customerize"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/five.formlib",
+    "name": "five.formlib",
+    "source_web_url": "https://github.com/zopefoundation/five.formlib"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/five.globalrequest",
+    "name": "five.globalrequest",
+    "source_web_url": "https://github.com/zopefoundation/five.globalrequest"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/five.grok",
+    "name": "five.grok",
+    "source_web_url": "https://github.com/zopefoundation/five.grok"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/five.localsitemanager",
+    "name": "five.localsitemanager",
+    "source_web_url": "https://github.com/zopefoundation/five.localsitemanager"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/five.pt",
+    "name": "five.pt",
+    "source_web_url": "https://github.com/zopefoundation/five.pt"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/five.taskqueue",
+    "name": "five.taskqueue",
+    "source_web_url": "https://github.com/zopefoundation/five.taskqueue"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/five.z2monitor",
+    "name": "five.z2monitor",
+    "source_web_url": "https://github.com/zopefoundation/five.z2monitor"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grok",
+    "name": "grok",
+    "source_web_url": "https://github.com/zopefoundation/grok"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.annotation",
+    "name": "grokcore.annotation",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.annotation"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.catalog",
+    "name": "grokcore.catalog",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.catalog"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.chameleon",
+    "name": "grokcore.chameleon",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.chameleon"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.component",
+    "name": "grokcore.component",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.component"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.content",
+    "name": "grokcore.content",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.content"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.error",
+    "name": "grokcore.error",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.error"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.errorview",
+    "name": "grokcore.errorview",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.errorview"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.formlib",
+    "name": "grokcore.formlib",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.formlib"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.json",
+    "name": "grokcore.json",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.json"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.layout",
+    "name": "grokcore.layout",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.layout"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.message",
+    "name": "grokcore.message",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.message"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.permission",
+    "name": "grokcore.permission",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.permission"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.registries",
+    "name": "grokcore.registries",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.registries"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.resource",
+    "name": "grokcore.resource",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.resource"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.rest",
+    "name": "grokcore.rest",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.rest"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.security",
+    "name": "grokcore.security",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.security"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.site",
+    "name": "grokcore.site",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.site"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.startup",
+    "name": "grokcore.startup",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.startup"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.traverser",
+    "name": "grokcore.traverser",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.traverser"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.view",
+    "name": "grokcore.view",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.view"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.viewlet",
+    "name": "grokcore.viewlet",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.viewlet"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokcore.xmlrpc",
+    "name": "grokcore.xmlrpc",
+    "source_web_url": "https://github.com/zopefoundation/grokcore.xmlrpc"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokproject",
+    "name": "grokproject",
+    "source_web_url": "https://github.com/zopefoundation/grokproject"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/groktoolkit",
+    "name": "groktoolkit",
+    "source_web_url": "https://github.com/zopefoundation/groktoolkit"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokui.admin",
+    "name": "grokui.admin",
+    "source_web_url": "https://github.com/zopefoundation/grokui.admin"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/grokui.base",
+    "name": "grokui.base",
+    "source_web_url": "https://github.com/zopefoundation/grokui.base"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/hurry.query",
+    "name": "hurry.query",
+    "source_web_url": "https://github.com/zopefoundation/hurry.query"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/hurry.workflow",
+    "name": "hurry.workflow",
+    "source_web_url": "https://github.com/zopefoundation/hurry.workflow"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/importchecker",
+    "name": "importchecker",
+    "source_web_url": "https://github.com/zopefoundation/importchecker"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/initgroups",
+    "name": "initgroups",
+    "source_web_url": "https://github.com/zopefoundation/initgroups"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/keas.build",
+    "name": "keas.build",
+    "source_web_url": "https://github.com/zopefoundation/keas.build"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/keas.kmi",
+    "name": "keas.kmi",
+    "source_web_url": "https://github.com/zopefoundation/keas.kmi"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/keas.profile",
+    "name": "keas.profile",
+    "source_web_url": "https://github.com/zopefoundation/keas.profile"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/keas.unit",
+    "name": "keas.unit",
+    "source_web_url": "https://github.com/zopefoundation/keas.unit"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/lovely.recipe",
+    "name": "lovely.recipe",
+    "source_web_url": "https://github.com/zopefoundation/lovely.recipe"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/m01.mongofake",
+    "name": "m01.mongofake",
+    "source_web_url": "https://github.com/zopefoundation/m01.mongofake"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/manuel",
+    "name": "manuel",
+    "source_web_url": "https://github.com/zopefoundation/manuel"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/martian",
+    "name": "martian",
+    "source_web_url": "https://github.com/zopefoundation/martian"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/megrok.menu",
+    "name": "megrok.menu",
+    "source_web_url": "https://github.com/zopefoundation/megrok.menu"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/mongopersist",
+    "name": "mongopersist",
+    "source_web_url": "https://github.com/zopefoundation/mongopersist"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/nt_svcutils",
+    "name": "nt_svcutils",
+    "source_web_url": "https://github.com/zopefoundation/nt_svcutils"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/persistent",
+    "name": "persistent",
+    "source_web_url": "https://github.com/zopefoundation/persistent"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/plone.postpublicationhook",
+    "name": "plone.postpublicationhook",
+    "source_web_url": "https://github.com/zopefoundation/plone.postpublicationhook"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/plone.validatehook",
+    "name": "plone.validatehook",
+    "source_web_url": "https://github.com/zopefoundation/plone.validatehook"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/plone.z3cform",
+    "name": "plone.z3cform",
+    "source_web_url": "https://github.com/zopefoundation/plone.z3cform"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/pyramid_zope_request",
+    "name": "pyramid_zope_request",
+    "source_web_url": "https://github.com/zopefoundation/pyramid_zope_request"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/refline.srccheck",
+    "name": "refline.srccheck",
+    "source_web_url": "https://github.com/zopefoundation/refline.srccheck"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/roman",
+    "name": "roman",
+    "source_web_url": "https://github.com/zopefoundation/roman"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/svn.zope.org",
+    "name": "svn.zope.org",
+    "source_web_url": "https://github.com/zopefoundation/svn.zope.org"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/tempstorage",
+    "name": "tempstorage",
+    "source_web_url": "https://github.com/zopefoundation/tempstorage"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/transaction",
+    "name": "transaction",
+    "source_web_url": "https://github.com/zopefoundation/transaction"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.authenticator",
+    "name": "z3c.authenticator",
+    "source_web_url": "https://github.com/zopefoundation/z3c.authenticator"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.autoinclude",
+    "name": "z3c.autoinclude",
+    "source_web_url": "https://github.com/zopefoundation/z3c.autoinclude"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.baseregistry",
+    "name": "z3c.baseregistry",
+    "source_web_url": "https://github.com/zopefoundation/z3c.baseregistry"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.batching",
+    "name": "z3c.batching",
+    "source_web_url": "https://github.com/zopefoundation/z3c.batching"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.bcrypt",
+    "name": "z3c.bcrypt",
+    "source_web_url": "https://github.com/zopefoundation/z3c.bcrypt"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.breadcrumb",
+    "name": "z3c.breadcrumb",
+    "source_web_url": "https://github.com/zopefoundation/z3c.breadcrumb"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.checkversions",
+    "name": "z3c.checkversions",
+    "source_web_url": "https://github.com/zopefoundation/z3c.checkversions"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.configurator",
+    "name": "z3c.configurator",
+    "source_web_url": "https://github.com/zopefoundation/z3c.configurator"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.contents",
+    "name": "z3c.contents",
+    "source_web_url": "https://github.com/zopefoundation/z3c.contents"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.coverage",
+    "name": "z3c.coverage",
+    "source_web_url": "https://github.com/zopefoundation/z3c.coverage"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.csvvocabulary",
+    "name": "z3c.csvvocabulary",
+    "source_web_url": "https://github.com/zopefoundation/z3c.csvvocabulary"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.currency",
+    "name": "z3c.currency",
+    "source_web_url": "https://github.com/zopefoundation/z3c.currency"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.datagenerator",
+    "name": "z3c.datagenerator",
+    "source_web_url": "https://github.com/zopefoundation/z3c.datagenerator"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.encryptedpersistent",
+    "name": "z3c.encryptedpersistent",
+    "source_web_url": "https://github.com/zopefoundation/z3c.encryptedpersistent"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.etestbrowser",
+    "name": "z3c.etestbrowser",
+    "source_web_url": "https://github.com/zopefoundation/z3c.etestbrowser"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.evalexception",
+    "name": "z3c.evalexception",
+    "source_web_url": "https://github.com/zopefoundation/z3c.evalexception"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.flashmessage",
+    "name": "z3c.flashmessage",
+    "source_web_url": "https://github.com/zopefoundation/z3c.flashmessage"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.form",
+    "name": "z3c.form",
+    "source_web_url": "https://github.com/zopefoundation/z3c.form"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.formdemo",
+    "name": "z3c.formdemo",
+    "source_web_url": "https://github.com/zopefoundation/z3c.formdemo"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.formui",
+    "name": "z3c.formui",
+    "source_web_url": "https://github.com/zopefoundation/z3c.formui"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.formwidget.ckeditor",
+    "name": "z3c.formwidget.ckeditor",
+    "source_web_url": "https://github.com/zopefoundation/z3c.formwidget.ckeditor"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.formwidget.query",
+    "name": "z3c.formwidget.query",
+    "source_web_url": "https://github.com/zopefoundation/z3c.formwidget.query"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.jbot",
+    "name": "z3c.jbot",
+    "source_web_url": "https://github.com/zopefoundation/z3c.jbot"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.json",
+    "name": "z3c.json",
+    "source_web_url": "https://github.com/zopefoundation/z3c.json"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.jsonrpc",
+    "name": "z3c.jsonrpc",
+    "source_web_url": "https://github.com/zopefoundation/z3c.jsonrpc"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.jsonrpcproxy",
+    "name": "z3c.jsonrpcproxy",
+    "source_web_url": "https://github.com/zopefoundation/z3c.jsonrpcproxy"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.jsontree",
+    "name": "z3c.jsontree",
+    "source_web_url": "https://github.com/zopefoundation/z3c.jsontree"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.language",
+    "name": "z3c.language",
+    "source_web_url": "https://github.com/zopefoundation/z3c.language"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.language.negotiator",
+    "name": "z3c.language.negotiator",
+    "source_web_url": "https://github.com/zopefoundation/z3c.language.negotiator"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.language.session",
+    "name": "z3c.language.session",
+    "source_web_url": "https://github.com/zopefoundation/z3c.language.session"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.language.switch",
+    "name": "z3c.language.switch",
+    "source_web_url": "https://github.com/zopefoundation/z3c.language.switch"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.layer.pagelet",
+    "name": "z3c.layer.pagelet",
+    "source_web_url": "https://github.com/zopefoundation/z3c.layer.pagelet"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.layer.ready2go",
+    "name": "z3c.layer.ready2go",
+    "source_web_url": "https://github.com/zopefoundation/z3c.layer.ready2go"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.macro",
+    "name": "z3c.macro",
+    "source_web_url": "https://github.com/zopefoundation/z3c.macro"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.menu.ready2go",
+    "name": "z3c.menu.ready2go",
+    "source_web_url": "https://github.com/zopefoundation/z3c.menu.ready2go"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.pagelet",
+    "name": "z3c.pagelet",
+    "source_web_url": "https://github.com/zopefoundation/z3c.pagelet"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.password",
+    "name": "z3c.password",
+    "source_web_url": "https://github.com/zopefoundation/z3c.password"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.pdftemplate",
+    "name": "z3c.pdftemplate",
+    "source_web_url": "https://github.com/zopefoundation/z3c.pdftemplate"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.pt",
+    "name": "z3c.pt",
+    "source_web_url": "https://github.com/zopefoundation/z3c.pt"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.ptcompat",
+    "name": "z3c.ptcompat",
+    "source_web_url": "https://github.com/zopefoundation/z3c.ptcompat"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.recipe.compattest",
+    "name": "z3c.recipe.compattest",
+    "source_web_url": "https://github.com/zopefoundation/z3c.recipe.compattest"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.recipe.i18n",
+    "name": "z3c.recipe.i18n",
+    "source_web_url": "https://github.com/zopefoundation/z3c.recipe.i18n"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.recipe.mkdir",
+    "name": "z3c.recipe.mkdir",
+    "source_web_url": "https://github.com/zopefoundation/z3c.recipe.mkdir"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.recipe.paster",
+    "name": "z3c.recipe.paster",
+    "source_web_url": "https://github.com/zopefoundation/z3c.recipe.paster"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.recipe.sphinxdoc",
+    "name": "z3c.recipe.sphinxdoc",
+    "source_web_url": "https://github.com/zopefoundation/z3c.recipe.sphinxdoc"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.recipe.tag",
+    "name": "z3c.recipe.tag",
+    "source_web_url": "https://github.com/zopefoundation/z3c.recipe.tag"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.relationfield",
+    "name": "z3c.relationfield",
+    "source_web_url": "https://github.com/zopefoundation/z3c.relationfield"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.rml",
+    "name": "z3c.rml",
+    "source_web_url": "https://github.com/zopefoundation/z3c.rml"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.saconfig",
+    "name": "z3c.saconfig",
+    "source_web_url": "https://github.com/zopefoundation/z3c.saconfig"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.sampledata",
+    "name": "z3c.sampledata",
+    "source_web_url": "https://github.com/zopefoundation/z3c.sampledata"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.schema",
+    "name": "z3c.schema",
+    "source_web_url": "https://github.com/zopefoundation/z3c.schema"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.schema2xml",
+    "name": "z3c.schema2xml",
+    "source_web_url": "https://github.com/zopefoundation/z3c.schema2xml"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.soap",
+    "name": "z3c.soap",
+    "source_web_url": "https://github.com/zopefoundation/z3c.soap"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.sqlalchemy",
+    "name": "z3c.sqlalchemy",
+    "source_web_url": "https://github.com/zopefoundation/z3c.sqlalchemy"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.table",
+    "name": "z3c.table",
+    "source_web_url": "https://github.com/zopefoundation/z3c.table"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.tabular",
+    "name": "z3c.tabular",
+    "source_web_url": "https://github.com/zopefoundation/z3c.tabular"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.taskqueue",
+    "name": "z3c.taskqueue",
+    "source_web_url": "https://github.com/zopefoundation/z3c.taskqueue"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.template",
+    "name": "z3c.template",
+    "source_web_url": "https://github.com/zopefoundation/z3c.template"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.testing",
+    "name": "z3c.testing",
+    "source_web_url": "https://github.com/zopefoundation/z3c.testing"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.testsetup",
+    "name": "z3c.testsetup",
+    "source_web_url": "https://github.com/zopefoundation/z3c.testsetup"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.traverser",
+    "name": "z3c.traverser",
+    "source_web_url": "https://github.com/zopefoundation/z3c.traverser"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.viewtemplate",
+    "name": "z3c.viewtemplate",
+    "source_web_url": "https://github.com/zopefoundation/z3c.viewtemplate"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.webdriver",
+    "name": "z3c.webdriver",
+    "source_web_url": "https://github.com/zopefoundation/z3c.webdriver"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.xmlhttp",
+    "name": "z3c.xmlhttp",
+    "source_web_url": "https://github.com/zopefoundation/z3c.xmlhttp"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/z3c.zrtresource",
+    "name": "z3c.zrtresource",
+    "source_web_url": "https://github.com/zopefoundation/z3c.zrtresource"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zExceptions",
+    "name": "zExceptions",
+    "source_web_url": "https://github.com/zopefoundation/zExceptions"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zLOG",
+    "name": "zLOG",
+    "source_web_url": "https://github.com/zopefoundation/zLOG"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.async",
+    "name": "zc.async",
+    "source_web_url": "https://github.com/zopefoundation/zc.async"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.beforestorage",
+    "name": "zc.beforestorage",
+    "source_web_url": "https://github.com/zopefoundation/zc.beforestorage"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.catalog",
+    "name": "zc.catalog",
+    "source_web_url": "https://github.com/zopefoundation/zc.catalog"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.configuration",
+    "name": "zc.configuration",
+    "source_web_url": "https://github.com/zopefoundation/zc.configuration"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.customdoctests",
+    "name": "zc.customdoctests",
+    "source_web_url": "https://github.com/zopefoundation/zc.customdoctests"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.datetimewidget",
+    "name": "zc.datetimewidget",
+    "source_web_url": "https://github.com/zopefoundation/zc.datetimewidget"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.form",
+    "name": "zc.form",
+    "source_web_url": "https://github.com/zopefoundation/zc.form"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.i18n",
+    "name": "zc.i18n",
+    "source_web_url": "https://github.com/zopefoundation/zc.i18n"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.lockfile",
+    "name": "zc.lockfile",
+    "source_web_url": "https://github.com/zopefoundation/zc.lockfile"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.metarecipe",
+    "name": "zc.metarecipe",
+    "source_web_url": "https://github.com/zopefoundation/zc.metarecipe"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.monitor",
+    "name": "zc.monitor",
+    "source_web_url": "https://github.com/zopefoundation/zc.monitor"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.ngi",
+    "name": "zc.ngi",
+    "source_web_url": "https://github.com/zopefoundation/zc.ngi"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.queue",
+    "name": "zc.queue",
+    "source_web_url": "https://github.com/zopefoundation/zc.queue"
+  },
+  {
+    "empty_github_repo": true,
+    "github_web_url": "https://github.com/zopefoundation/zc.recipe.cmmi",
+    "name": "zc.recipe.cmmi"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.recipe.deployment",
+    "name": "zc.recipe.deployment",
+    "source_web_url": "https://github.com/zopefoundation/zc.recipe.deployment"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.recipe.filestorage",
+    "name": "zc.recipe.filestorage",
+    "source_web_url": "https://github.com/zopefoundation/zc.recipe.filestorage"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.recipe.rhrc",
+    "name": "zc.recipe.rhrc",
+    "source_web_url": "https://github.com/zopefoundation/zc.recipe.rhrc"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.relation",
+    "name": "zc.relation",
+    "source_web_url": "https://github.com/zopefoundation/zc.relation"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.relationship",
+    "name": "zc.relationship",
+    "source_web_url": "https://github.com/zopefoundation/zc.relationship"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.resourcelibrary",
+    "name": "zc.resourcelibrary",
+    "source_web_url": "https://github.com/zopefoundation/zc.resourcelibrary"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.resumelb",
+    "name": "zc.resumelb",
+    "source_web_url": "https://github.com/zopefoundation/zc.resumelb"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.signalhandler",
+    "name": "zc.signalhandler",
+    "source_web_url": "https://github.com/zopefoundation/zc.signalhandler"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.sourcefactory",
+    "name": "zc.sourcefactory",
+    "source_web_url": "https://github.com/zopefoundation/zc.sourcefactory"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.table",
+    "name": "zc.table",
+    "source_web_url": "https://github.com/zopefoundation/zc.table"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zdaemonrecipe",
+    "name": "zc.zdaemonrecipe",
+    "source_web_url": "https://github.com/zopefoundation/zc.zdaemonrecipe"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zk",
+    "name": "zc.zk",
+    "source_web_url": "https://github.com/zopefoundation/zc.zk"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zkzeo",
+    "name": "zc.zkzeo",
+    "source_web_url": "https://github.com/zopefoundation/zc.zkzeo"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zlibstorage",
+    "name": "zc.zlibstorage",
+    "source_web_url": "https://github.com/zopefoundation/zc.zlibstorage"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zodbdgc",
+    "name": "zc.zodbdgc",
+    "source_web_url": "https://github.com/zopefoundation/zc.zodbdgc"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zodbrecipes",
+    "name": "zc.zodbrecipes",
+    "source_web_url": "https://github.com/zopefoundation/zc.zodbrecipes"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zodbwsgi",
+    "name": "zc.zodbwsgi",
+    "source_web_url": "https://github.com/zopefoundation/zc.zodbwsgi"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zope3recipes",
+    "name": "zc.zope3recipes",
+    "source_web_url": "https://github.com/zopefoundation/zc.zope3recipes"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zc.zservertracelog",
+    "name": "zc.zservertracelog",
+    "source_web_url": "https://github.com/zopefoundation/zc.zservertracelog"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zdaemon",
+    "name": "zdaemon",
+    "source_web_url": "https://github.com/zopefoundation/zdaemon"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zf.githubreceiver",
+    "name": "zf.githubreceiver",
+    "source_web_url": "https://github.com/zopefoundation/zf.githubreceiver"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zodbdocs",
+    "name": "zodbdocs",
+    "source_web_url": "https://github.com/zopefoundation/zodbdocs"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zodbpickle",
+    "name": "zodbpickle",
+    "source_web_url": "https://github.com/zopefoundation/zodbpickle"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.annotation",
+    "name": "zope.annotation",
+    "source_web_url": "https://github.com/zopefoundation/zope.annotation"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.apidoc",
+    "name": "zope.apidoc",
+    "source_web_url": "https://github.com/zopefoundation/zope.apidoc"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.apidoc",
+    "name": "zope.app.apidoc",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.apidoc"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.applicationcontrol",
+    "name": "zope.app.applicationcontrol",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.applicationcontrol"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.appsetup",
+    "name": "zope.app.appsetup",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.appsetup"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.authentication",
+    "name": "zope.app.authentication",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.authentication"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.basicskin",
+    "name": "zope.app.basicskin",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.basicskin"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.broken",
+    "name": "zope.app.broken",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.broken"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.component",
+    "name": "zope.app.component",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.component"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.container",
+    "name": "zope.app.container",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.container"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.content",
+    "name": "zope.app.content",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.content"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.debug",
+    "name": "zope.app.debug",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.debug"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.dependable",
+    "name": "zope.app.dependable",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.dependable"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.error",
+    "name": "zope.app.error",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.error"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.exception",
+    "name": "zope.app.exception",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.exception"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.folder",
+    "name": "zope.app.folder",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.folder"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.form",
+    "name": "zope.app.form",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.form"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.generations",
+    "name": "zope.app.generations",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.generations"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.http",
+    "name": "zope.app.http",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.http"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.i18n",
+    "name": "zope.app.i18n",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.i18n"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.interface",
+    "name": "zope.app.interface",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.interface"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.locales",
+    "name": "zope.app.locales",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.locales"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.localpermission",
+    "name": "zope.app.localpermission",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.localpermission"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.pagetemplate",
+    "name": "zope.app.pagetemplate",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.pagetemplate"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.principalannotation",
+    "name": "zope.app.principalannotation",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.principalannotation"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.publication",
+    "name": "zope.app.publication",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.publication"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.publisher",
+    "name": "zope.app.publisher",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.publisher"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.rotterdam",
+    "name": "zope.app.rotterdam",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.rotterdam"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.schema",
+    "name": "zope.app.schema",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.schema"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.security",
+    "name": "zope.app.security",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.security"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.server",
+    "name": "zope.app.server",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.server"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.session",
+    "name": "zope.app.session",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.session"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.testing",
+    "name": "zope.app.testing",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.testing"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.wsgi",
+    "name": "zope.app.wsgi",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.wsgi"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.zcmlfiles",
+    "name": "zope.app.zcmlfiles",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.zcmlfiles"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.app.zopeappgenerations",
+    "name": "zope.app.zopeappgenerations",
+    "source_web_url": "https://github.com/zopefoundation/zope.app.zopeappgenerations"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.applicationcontrol",
+    "name": "zope.applicationcontrol",
+    "source_web_url": "https://github.com/zopefoundation/zope.applicationcontrol"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.authentication",
+    "name": "zope.authentication",
+    "source_web_url": "https://github.com/zopefoundation/zope.authentication"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.browser",
+    "name": "zope.browser",
+    "source_web_url": "https://github.com/zopefoundation/zope.browser"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.browsermenu",
+    "name": "zope.browsermenu",
+    "source_web_url": "https://github.com/zopefoundation/zope.browsermenu"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.browserpage",
+    "name": "zope.browserpage",
+    "source_web_url": "https://github.com/zopefoundation/zope.browserpage"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.browserresource",
+    "name": "zope.browserresource",
+    "source_web_url": "https://github.com/zopefoundation/zope.browserresource"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.cachedescriptors",
+    "name": "zope.cachedescriptors",
+    "source_web_url": "https://github.com/zopefoundation/zope.cachedescriptors"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.catalog",
+    "name": "zope.catalog",
+    "source_web_url": "https://github.com/zopefoundation/zope.catalog"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.component",
+    "name": "zope.component",
+    "source_web_url": "https://github.com/zopefoundation/zope.component"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.componentvocabulary",
+    "name": "zope.componentvocabulary",
+    "source_web_url": "https://github.com/zopefoundation/zope.componentvocabulary"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.configuration",
+    "name": "zope.configuration",
+    "source_web_url": "https://github.com/zopefoundation/zope.configuration"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.container",
+    "name": "zope.container",
+    "source_web_url": "https://github.com/zopefoundation/zope.container"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.contentprovider",
+    "name": "zope.contentprovider",
+    "source_web_url": "https://github.com/zopefoundation/zope.contentprovider"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.contenttype",
+    "name": "zope.contenttype",
+    "source_web_url": "https://github.com/zopefoundation/zope.contenttype"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.copy",
+    "name": "zope.copy",
+    "source_web_url": "https://github.com/zopefoundation/zope.copy"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.copypastemove",
+    "name": "zope.copypastemove",
+    "source_web_url": "https://github.com/zopefoundation/zope.copypastemove"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.datetime",
+    "name": "zope.datetime",
+    "source_web_url": "https://github.com/zopefoundation/zope.datetime"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.deferredimport",
+    "name": "zope.deferredimport",
+    "source_web_url": "https://github.com/zopefoundation/zope.deferredimport"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.deprecation",
+    "name": "zope.deprecation",
+    "source_web_url": "https://github.com/zopefoundation/zope.deprecation"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.dottedname",
+    "name": "zope.dottedname",
+    "source_web_url": "https://github.com/zopefoundation/zope.dottedname"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.dublincore",
+    "name": "zope.dublincore",
+    "source_web_url": "https://github.com/zopefoundation/zope.dublincore"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.error",
+    "name": "zope.error",
+    "source_web_url": "https://github.com/zopefoundation/zope.error"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.errorview",
+    "name": "zope.errorview",
+    "source_web_url": "https://github.com/zopefoundation/zope.errorview"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.event",
+    "name": "zope.event",
+    "source_web_url": "https://github.com/zopefoundation/zope.event"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.exceptions",
+    "name": "zope.exceptions",
+    "source_web_url": "https://github.com/zopefoundation/zope.exceptions"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.fanstatic",
+    "name": "zope.fanstatic",
+    "source_web_url": "https://github.com/zopefoundation/zope.fanstatic"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.filerepresentation",
+    "name": "zope.filerepresentation",
+    "source_web_url": "https://github.com/zopefoundation/zope.filerepresentation"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.fixers",
+    "name": "zope.fixers",
+    "source_web_url": "https://github.com/zopefoundation/zope.fixers"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.formlib",
+    "name": "zope.formlib",
+    "source_web_url": "https://github.com/zopefoundation/zope.formlib"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.generations",
+    "name": "zope.generations",
+    "source_web_url": "https://github.com/zopefoundation/zope.generations"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.githubsupport",
+    "name": "zope.githubsupport",
+    "source_web_url": "https://github.com/zopefoundation/zope.githubsupport"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.globalrequest",
+    "name": "zope.globalrequest",
+    "source_web_url": "https://github.com/zopefoundation/zope.globalrequest"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.hookable",
+    "name": "zope.hookable",
+    "source_web_url": "https://github.com/zopefoundation/zope.hookable"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.html",
+    "name": "zope.html",
+    "source_web_url": "https://github.com/zopefoundation/zope.html"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.i18n",
+    "name": "zope.i18n",
+    "source_web_url": "https://github.com/zopefoundation/zope.i18n"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.i18nmessageid",
+    "name": "zope.i18nmessageid",
+    "source_web_url": "https://github.com/zopefoundation/zope.i18nmessageid"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.index",
+    "name": "zope.index",
+    "source_web_url": "https://github.com/zopefoundation/zope.index"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.interface",
+    "name": "zope.interface",
+    "source_web_url": "https://github.com/zopefoundation/zope.interface"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.intid",
+    "name": "zope.intid",
+    "source_web_url": "https://github.com/zopefoundation/zope.intid"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.keyreference",
+    "name": "zope.keyreference",
+    "source_web_url": "https://github.com/zopefoundation/zope.keyreference"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.lifecycleevent",
+    "name": "zope.lifecycleevent",
+    "source_web_url": "https://github.com/zopefoundation/zope.lifecycleevent"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.location",
+    "name": "zope.location",
+    "source_web_url": "https://github.com/zopefoundation/zope.location"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.login",
+    "name": "zope.login",
+    "source_web_url": "https://github.com/zopefoundation/zope.login"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.mimetype",
+    "name": "zope.mimetype",
+    "source_web_url": "https://github.com/zopefoundation/zope.mimetype"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.minmax",
+    "name": "zope.minmax",
+    "source_web_url": "https://github.com/zopefoundation/zope.minmax"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.mkzeoinstance",
+    "name": "zope.mkzeoinstance",
+    "source_web_url": "https://github.com/zopefoundation/zope.mkzeoinstance"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.outputchecker",
+    "name": "zope.outputchecker",
+    "source_web_url": "https://github.com/zopefoundation/zope.outputchecker"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.pagetemplate",
+    "name": "zope.pagetemplate",
+    "source_web_url": "https://github.com/zopefoundation/zope.pagetemplate"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.password",
+    "name": "zope.password",
+    "source_web_url": "https://github.com/zopefoundation/zope.password"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.paste",
+    "name": "zope.paste",
+    "source_web_url": "https://github.com/zopefoundation/zope.paste"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.pluggableauth",
+    "name": "zope.pluggableauth",
+    "source_web_url": "https://github.com/zopefoundation/zope.pluggableauth"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.preference",
+    "name": "zope.preference",
+    "source_web_url": "https://github.com/zopefoundation/zope.preference"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.principalannotation",
+    "name": "zope.principalannotation",
+    "source_web_url": "https://github.com/zopefoundation/zope.principalannotation"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.principalregistry",
+    "name": "zope.principalregistry",
+    "source_web_url": "https://github.com/zopefoundation/zope.principalregistry"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.processlifetime",
+    "name": "zope.processlifetime",
+    "source_web_url": "https://github.com/zopefoundation/zope.processlifetime"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.proxy",
+    "name": "zope.proxy",
+    "source_web_url": "https://github.com/zopefoundation/zope.proxy"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.ptresource",
+    "name": "zope.ptresource",
+    "source_web_url": "https://github.com/zopefoundation/zope.ptresource"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.publisher",
+    "name": "zope.publisher",
+    "source_web_url": "https://github.com/zopefoundation/zope.publisher"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.ramcache",
+    "name": "zope.ramcache",
+    "source_web_url": "https://github.com/zopefoundation/zope.ramcache"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.renderer",
+    "name": "zope.renderer",
+    "source_web_url": "https://github.com/zopefoundation/zope.renderer"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.schema",
+    "name": "zope.schema",
+    "source_web_url": "https://github.com/zopefoundation/zope.schema"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.schemaevent",
+    "name": "zope.schemaevent",
+    "source_web_url": "https://github.com/zopefoundation/zope.schemaevent"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.security",
+    "name": "zope.security",
+    "source_web_url": "https://github.com/zopefoundation/zope.security"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.securitypolicy",
+    "name": "zope.securitypolicy",
+    "source_web_url": "https://github.com/zopefoundation/zope.securitypolicy"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.sendmail",
+    "name": "zope.sendmail",
+    "source_web_url": "https://github.com/zopefoundation/zope.sendmail"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.sequencesort",
+    "name": "zope.sequencesort",
+    "source_web_url": "https://github.com/zopefoundation/zope.sequencesort"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.server",
+    "name": "zope.server",
+    "source_web_url": "https://github.com/zopefoundation/zope.server"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.session",
+    "name": "zope.session",
+    "source_web_url": "https://github.com/zopefoundation/zope.session"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.site",
+    "name": "zope.site",
+    "source_web_url": "https://github.com/zopefoundation/zope.site"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.size",
+    "name": "zope.size",
+    "source_web_url": "https://github.com/zopefoundation/zope.size"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.sqlalchemy",
+    "name": "zope.sqlalchemy",
+    "source_web_url": "https://github.com/zopefoundation/zope.sqlalchemy"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.structuredtext",
+    "name": "zope.structuredtext",
+    "source_web_url": "https://github.com/zopefoundation/zope.structuredtext"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.tal",
+    "name": "zope.tal",
+    "source_web_url": "https://github.com/zopefoundation/zope.tal"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.tales",
+    "name": "zope.tales",
+    "source_web_url": "https://github.com/zopefoundation/zope.tales"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.testbrowser",
+    "name": "zope.testbrowser",
+    "source_web_url": "https://github.com/zopefoundation/zope.testbrowser"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.testing",
+    "name": "zope.testing",
+    "source_web_url": "https://github.com/zopefoundation/zope.testing"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.testrunner",
+    "name": "zope.testrunner",
+    "source_web_url": "https://github.com/zopefoundation/zope.testrunner"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.traversing",
+    "name": "zope.traversing",
+    "source_web_url": "https://github.com/zopefoundation/zope.traversing"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.untrustedpython",
+    "name": "zope.untrustedpython",
+    "source_web_url": "https://github.com/zopefoundation/zope.untrustedpython"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.viewlet",
+    "name": "zope.viewlet",
+    "source_web_url": "https://github.com/zopefoundation/zope.viewlet"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.vocabularyregistry",
+    "name": "zope.vocabularyregistry",
+    "source_web_url": "https://github.com/zopefoundation/zope.vocabularyregistry"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.wfmc",
+    "name": "zope.wfmc",
+    "source_web_url": "https://github.com/zopefoundation/zope.wfmc"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.winbot",
+    "name": "zope.winbot",
+    "source_web_url": "https://github.com/zopefoundation/zope.winbot"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.wineggbuilder",
+    "name": "zope.wineggbuilder",
+    "source_web_url": "https://github.com/zopefoundation/zope.wineggbuilder"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope.z2release",
+    "name": "zope.z2release",
+    "source_web_url": "https://github.com/zopefoundation/zope.z2release"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zope2.sessioncookie",
+    "name": "zope2.sessioncookie",
+    "source_web_url": "https://github.com/zopefoundation/zope2.sessioncookie"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zopetoolkit",
+    "name": "zopetoolkit",
+    "source_web_url": "https://github.com/zopefoundation/zopetoolkit"
+  },
+  {
+    "github_web_url": "https://github.com/zopefoundation/zpt-docs",
+    "name": "zpt-docs",
+    "source_web_url": "https://github.com/zopefoundation/zpt-docs"
+  }
+]

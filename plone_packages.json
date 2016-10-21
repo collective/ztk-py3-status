@@ -1,0 +1,1197 @@
+[
+  {
+    "github_web_url": "https://github.com/plone/Plone",
+    "name": "Plone",
+    "source_web_url": "https://github.com/plone/Plone"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.ATContentTypes",
+    "name": "Products.ATContentTypes",
+    "source_web_url": "https://github.com/plone/Products.ATContentTypes"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.ATReferenceBrowserWidget",
+    "name": "Products.ATReferenceBrowserWidget",
+    "source_web_url": "https://github.com/plone/Products.ATReferenceBrowserWidget"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.Archetypes",
+    "name": "Products.Archetypes",
+    "source_web_url": "https://github.com/plone/Products.Archetypes"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFDiffTool",
+    "name": "Products.CMFDiffTool",
+    "source_web_url": "https://github.com/plone/Products.CMFDiffTool"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFDynamicViewFTI",
+    "name": "Products.CMFDynamicViewFTI",
+    "source_web_url": "https://github.com/plone/Products.CMFDynamicViewFTI"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFEditions",
+    "name": "Products.CMFEditions",
+    "source_web_url": "https://github.com/plone/Products.CMFEditions"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFFormController",
+    "name": "Products.CMFFormController",
+    "source_web_url": "https://github.com/plone/Products.CMFFormController"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFPlacefulWorkflow",
+    "name": "Products.CMFPlacefulWorkflow",
+    "source_web_url": "https://github.com/plone/Products.CMFPlacefulWorkflow"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFPlone",
+    "name": "Products.CMFPlone",
+    "source_web_url": "https://github.com/plone/Products.CMFPlone"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFQuickInstallerTool",
+    "name": "Products.CMFQuickInstallerTool",
+    "source_web_url": "https://github.com/plone/Products.CMFQuickInstallerTool"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFTestCase",
+    "name": "Products.CMFTestCase",
+    "source_web_url": "https://github.com/plone/Products.CMFTestCase"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.CMFUid",
+    "name": "Products.CMFUid",
+    "source_web_url": "https://github.com/plone/Products.CMFUid"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.ExtendedPathIndex",
+    "name": "Products.ExtendedPathIndex",
+    "source_web_url": "https://github.com/plone/Products.ExtendedPathIndex"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.FoundationMember",
+    "name": "Products.FoundationMember",
+    "source_web_url": "https://github.com/plone/Products.FoundationMember"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.GenericSetup",
+    "name": "Products.GenericSetup",
+    "source_web_url": "https://github.com/plone/Products.GenericSetup"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.LinguaPlone",
+    "name": "Products.LinguaPlone",
+    "source_web_url": "https://github.com/plone/Products.LinguaPlone"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.Marshall",
+    "name": "Products.Marshall",
+    "source_web_url": "https://github.com/plone/Products.Marshall"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.MasterSelectWidget",
+    "name": "Products.MasterSelectWidget",
+    "source_web_url": "https://github.com/plone/Products.MasterSelectWidget"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.MimetypesRegistry",
+    "name": "Products.MimetypesRegistry",
+    "source_web_url": "https://github.com/plone/Products.MimetypesRegistry"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.PasswordResetTool",
+    "name": "Products.PasswordResetTool",
+    "source_web_url": "https://github.com/plone/Products.PasswordResetTool"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.PlacelessTranslationService",
+    "name": "Products.PlacelessTranslationService",
+    "source_web_url": "https://github.com/plone/Products.PlacelessTranslationService"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.PloneLanguageTool",
+    "name": "Products.PloneLanguageTool",
+    "source_web_url": "https://github.com/plone/Products.PloneLanguageTool"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.PlonePAS",
+    "name": "Products.PlonePAS",
+    "source_web_url": "https://github.com/plone/Products.PlonePAS"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.PloneServicesCenter",
+    "name": "Products.PloneServicesCenter",
+    "source_web_url": "https://github.com/plone/Products.PloneServicesCenter"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.PluggableAuthService",
+    "name": "Products.PluggableAuthService",
+    "source_web_url": "https://github.com/plone/Products.PluggableAuthService"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.PluginRegistry",
+    "name": "Products.PluginRegistry",
+    "source_web_url": "https://github.com/plone/Products.PluginRegistry"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.PortalTransforms",
+    "name": "Products.PortalTransforms",
+    "source_web_url": "https://github.com/plone/Products.PortalTransforms"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.Relations",
+    "name": "Products.Relations",
+    "source_web_url": "https://github.com/plone/Products.Relations"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.ResourceRegistries",
+    "name": "Products.ResourceRegistries",
+    "source_web_url": "https://github.com/plone/Products.ResourceRegistries"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.TinyMCE",
+    "name": "Products.TinyMCE",
+    "source_web_url": "https://github.com/plone/Products.TinyMCE"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.ZCatalog",
+    "name": "Products.ZCatalog",
+    "source_web_url": "https://github.com/plone/Products.ZCatalog"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.contentmigration",
+    "name": "Products.contentmigration",
+    "source_web_url": "https://github.com/plone/Products.contentmigration"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.i18ntestcase",
+    "name": "Products.i18ntestcase",
+    "source_web_url": "https://github.com/plone/Products.i18ntestcase"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.statusmessages",
+    "name": "Products.statusmessages",
+    "source_web_url": "https://github.com/plone/Products.statusmessages"
+  },
+  {
+    "github_web_url": "https://github.com/plone/Products.validation",
+    "name": "Products.validation",
+    "source_web_url": "https://github.com/plone/Products.validation"
+  },
+  {
+    "github_web_url": "https://github.com/plone/archetypes.kss",
+    "name": "archetypes.kss",
+    "source_web_url": "https://github.com/plone/archetypes.kss"
+  },
+  {
+    "github_web_url": "https://github.com/plone/archetypes.multilingual",
+    "name": "archetypes.multilingual",
+    "source_web_url": "https://github.com/plone/archetypes.multilingual"
+  },
+  {
+    "github_web_url": "https://github.com/plone/archetypes.querywidget",
+    "name": "archetypes.querywidget",
+    "source_web_url": "https://github.com/plone/archetypes.querywidget"
+  },
+  {
+    "github_web_url": "https://github.com/plone/archetypes.referencebrowserwidget",
+    "name": "archetypes.referencebrowserwidget",
+    "source_web_url": "https://github.com/plone/archetypes.referencebrowserwidget"
+  },
+  {
+    "github_web_url": "https://github.com/plone/archetypes.schemaextender",
+    "name": "archetypes.schemaextender",
+    "source_web_url": "https://github.com/plone/archetypes.schemaextender"
+  },
+  {
+    "github_web_url": "https://github.com/plone/borg.localrole",
+    "name": "borg.localrole",
+    "source_web_url": "https://github.com/plone/borg.localrole"
+  },
+  {
+    "github_web_url": "https://github.com/plone/collective.indexing",
+    "name": "collective.indexing",
+    "source_web_url": "https://github.com/plone/collective.indexing"
+  },
+  {
+    "github_web_url": "https://github.com/plone/collective.monkeypatcher",
+    "name": "collective.monkeypatcher",
+    "source_web_url": "https://github.com/plone/collective.monkeypatcher"
+  },
+  {
+    "github_web_url": "https://github.com/plone/diazo",
+    "name": "diazo",
+    "source_web_url": "https://github.com/plone/diazo"
+  },
+  {
+    "github_web_url": "https://github.com/plone/diazotheme.coolblue",
+    "name": "diazotheme.coolblue",
+    "source_web_url": "https://github.com/plone/diazotheme.coolblue"
+  },
+  {
+    "github_web_url": "https://github.com/plone/diazotheme.plonecom",
+    "name": "diazotheme.plonecom",
+    "source_web_url": "https://github.com/plone/diazotheme.plonecom"
+  },
+  {
+    "github_web_url": "https://github.com/plone/experimental.nodtml",
+    "name": "experimental.nodtml",
+    "source_web_url": "https://github.com/plone/experimental.nodtml"
+  },
+  {
+    "github_web_url": "https://github.com/plone/experimental.publishtraverse",
+    "name": "experimental.publishtraverse",
+    "source_web_url": "https://github.com/plone/experimental.publishtraverse"
+  },
+  {
+    "github_web_url": "https://github.com/plone/five.intid",
+    "name": "five.intid",
+    "source_web_url": "https://github.com/plone/five.intid"
+  },
+  {
+    "github_web_url": "https://github.com/plone/paragon.addons",
+    "name": "paragon.addons",
+    "source_web_url": "https://github.com/plone/paragon.addons"
+  },
+  {
+    "github_web_url": "https://github.com/plone/paragon.site",
+    "name": "paragon.site",
+    "source_web_url": "https://github.com/plone/paragon.site"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.act",
+    "name": "plone.act",
+    "source_web_url": "https://github.com/plone/plone.act"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.alterego",
+    "name": "plone.alterego",
+    "source_web_url": "https://github.com/plone/plone.alterego"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.api",
+    "name": "plone.api",
+    "source_web_url": "https://github.com/plone/plone.api"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.async",
+    "name": "plone.app.async",
+    "source_web_url": "https://github.com/plone/plone.app.async"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.blob",
+    "name": "plone.app.blob",
+    "source_web_url": "https://github.com/plone/plone.app.blob"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.blocks",
+    "name": "plone.app.blocks",
+    "source_web_url": "https://github.com/plone/plone.app.blocks"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.caching",
+    "name": "plone.app.caching",
+    "source_web_url": "https://github.com/plone/plone.app.caching"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.cmsui",
+    "name": "plone.app.cmsui",
+    "source_web_url": "https://github.com/plone/plone.app.cmsui"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.collection",
+    "name": "plone.app.collection",
+    "source_web_url": "https://github.com/plone/plone.app.collection"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.content",
+    "name": "plone.app.content",
+    "source_web_url": "https://github.com/plone/plone.app.content"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.contentlisting",
+    "name": "plone.app.contentlisting",
+    "source_web_url": "https://github.com/plone/plone.app.contentlisting"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.contentlistingtile",
+    "name": "plone.app.contentlistingtile",
+    "source_web_url": "https://github.com/plone/plone.app.contentlistingtile"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.contentmenu",
+    "name": "plone.app.contentmenu",
+    "source_web_url": "https://github.com/plone/plone.app.contentmenu"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.contentrules",
+    "name": "plone.app.contentrules",
+    "source_web_url": "https://github.com/plone/plone.app.contentrules"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.contenttile",
+    "name": "plone.app.contenttile",
+    "source_web_url": "https://github.com/plone/plone.app.contenttile"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.contenttypes",
+    "name": "plone.app.contenttypes",
+    "source_web_url": "https://github.com/plone/plone.app.contenttypes"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.controlpanel",
+    "name": "plone.app.controlpanel",
+    "source_web_url": "https://github.com/plone/plone.app.controlpanel"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.customerize",
+    "name": "plone.app.customerize",
+    "source_web_url": "https://github.com/plone/plone.app.customerize"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.debugtoolbar",
+    "name": "plone.app.debugtoolbar",
+    "source_web_url": "https://github.com/plone/plone.app.debugtoolbar"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.deco",
+    "name": "plone.app.deco",
+    "source_web_url": "https://github.com/plone/plone.app.deco"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.dexterity",
+    "name": "plone.app.dexterity",
+    "source_web_url": "https://github.com/plone/plone.app.dexterity"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.discussion",
+    "name": "plone.app.discussion",
+    "source_web_url": "https://github.com/plone/plone.app.discussion"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.drafts",
+    "name": "plone.app.drafts",
+    "source_web_url": "https://github.com/plone/plone.app.drafts"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.event",
+    "name": "plone.app.event",
+    "source_web_url": "https://github.com/plone/plone.app.event"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.filewidgets",
+    "name": "plone.app.filewidgets",
+    "source_web_url": "https://github.com/plone/plone.app.filewidgets"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.folder",
+    "name": "plone.app.folder",
+    "source_web_url": "https://github.com/plone/plone.app.folder"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.form",
+    "name": "plone.app.form",
+    "source_web_url": "https://github.com/plone/plone.app.form"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.hud",
+    "name": "plone.app.hud",
+    "source_web_url": "https://github.com/plone/plone.app.hud"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.i18n",
+    "name": "plone.app.i18n",
+    "source_web_url": "https://github.com/plone/plone.app.i18n"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.imagetile",
+    "name": "plone.app.imagetile",
+    "source_web_url": "https://github.com/plone/plone.app.imagetile"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.imaging",
+    "name": "plone.app.imaging",
+    "source_web_url": "https://github.com/plone/plone.app.imaging"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.intid",
+    "name": "plone.app.intid",
+    "source_web_url": "https://github.com/plone/plone.app.intid"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.iterate",
+    "name": "plone.app.iterate",
+    "source_web_url": "https://github.com/plone/plone.app.iterate"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.jquery",
+    "name": "plone.app.jquery",
+    "source_web_url": "https://github.com/plone/plone.app.jquery"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.jquerytools",
+    "name": "plone.app.jquerytools",
+    "source_web_url": "https://github.com/plone/plone.app.jquerytools"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.jqueryui",
+    "name": "plone.app.jqueryui",
+    "source_web_url": "https://github.com/plone/plone.app.jqueryui"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.jscalendar",
+    "name": "plone.app.jscalendar",
+    "source_web_url": "https://github.com/plone/plone.app.jscalendar"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.kss",
+    "name": "plone.app.kss",
+    "source_web_url": "https://github.com/plone/plone.app.kss"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.layout",
+    "name": "plone.app.layout",
+    "source_web_url": "https://github.com/plone/plone.app.layout"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.layoutpage",
+    "name": "plone.app.layoutpage",
+    "source_web_url": "https://github.com/plone/plone.app.layoutpage"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.ldap",
+    "name": "plone.app.ldap",
+    "source_web_url": "https://github.com/plone/plone.app.ldap"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.linkintegrity",
+    "name": "plone.app.linkintegrity",
+    "source_web_url": "https://github.com/plone/plone.app.linkintegrity"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.lockingbehavior",
+    "name": "plone.app.lockingbehavior",
+    "source_web_url": "https://github.com/plone/plone.app.lockingbehavior"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.mediarepository",
+    "name": "plone.app.mediarepository",
+    "source_web_url": "https://github.com/plone/plone.app.mediarepository"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.modernizr",
+    "name": "plone.app.modernizr",
+    "source_web_url": "https://github.com/plone/plone.app.modernizr"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.mosaic",
+    "name": "plone.app.mosaic",
+    "source_web_url": "https://github.com/plone/plone.app.mosaic"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.multilingual",
+    "name": "plone.app.multilingual",
+    "source_web_url": "https://github.com/plone/plone.app.multilingual"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.multilingualindexes",
+    "name": "plone.app.multilingualindexes",
+    "source_web_url": "https://github.com/plone/plone.app.multilingualindexes"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.openid",
+    "name": "plone.app.openid",
+    "source_web_url": "https://github.com/plone/plone.app.openid"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.page",
+    "name": "plone.app.page",
+    "source_web_url": "https://github.com/plone/plone.app.page"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.portlets",
+    "name": "plone.app.portlets",
+    "source_web_url": "https://github.com/plone/plone.app.portlets"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.querystring",
+    "name": "plone.app.querystring",
+    "source_web_url": "https://github.com/plone/plone.app.querystring"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.redirector",
+    "name": "plone.app.redirector",
+    "source_web_url": "https://github.com/plone/plone.app.redirector"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.referenceablebehavior",
+    "name": "plone.app.referenceablebehavior",
+    "source_web_url": "https://github.com/plone/plone.app.referenceablebehavior"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.registry",
+    "name": "plone.app.registry",
+    "source_web_url": "https://github.com/plone/plone.app.registry"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.relationfield",
+    "name": "plone.app.relationfield",
+    "source_web_url": "https://github.com/plone/plone.app.relationfield"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.relations",
+    "name": "plone.app.relations",
+    "source_web_url": "https://github.com/plone/plone.app.relations"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.robotframework",
+    "name": "plone.app.robotframework",
+    "source_web_url": "https://github.com/plone/plone.app.robotframework"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.s5slideshow",
+    "name": "plone.app.s5slideshow",
+    "source_web_url": "https://github.com/plone/plone.app.s5slideshow"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.sarissa",
+    "name": "plone.app.sarissa",
+    "source_web_url": "https://github.com/plone/plone.app.sarissa"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.search",
+    "name": "plone.app.search",
+    "source_web_url": "https://github.com/plone/plone.app.search"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.securityalert",
+    "name": "plone.app.securityalert",
+    "source_web_url": "https://github.com/plone/plone.app.securityalert"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.stagingbehavior",
+    "name": "plone.app.stagingbehavior",
+    "source_web_url": "https://github.com/plone/plone.app.stagingbehavior"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.standardtiles",
+    "name": "plone.app.standardtiles",
+    "source_web_url": "https://github.com/plone/plone.app.standardtiles"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.testing",
+    "name": "plone.app.testing",
+    "source_web_url": "https://github.com/plone/plone.app.testing"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.textfield",
+    "name": "plone.app.textfield",
+    "source_web_url": "https://github.com/plone/plone.app.textfield"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.texttile",
+    "name": "plone.app.texttile",
+    "source_web_url": "https://github.com/plone/plone.app.texttile"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.themeeditor",
+    "name": "plone.app.themeeditor",
+    "source_web_url": "https://github.com/plone/plone.app.themeeditor"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.theming",
+    "name": "plone.app.theming",
+    "source_web_url": "https://github.com/plone/plone.app.theming"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.themingplugins",
+    "name": "plone.app.themingplugins",
+    "source_web_url": "https://github.com/plone/plone.app.themingplugins"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.tiles",
+    "name": "plone.app.tiles",
+    "source_web_url": "https://github.com/plone/plone.app.tiles"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.tinymce",
+    "name": "plone.app.tinymce",
+    "source_web_url": "https://github.com/plone/plone.app.tinymce"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.toolbar",
+    "name": "plone.app.toolbar",
+    "source_web_url": "https://github.com/plone/plone.app.toolbar"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.upgrade",
+    "name": "plone.app.upgrade",
+    "source_web_url": "https://github.com/plone/plone.app.upgrade"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.users",
+    "name": "plone.app.users",
+    "source_web_url": "https://github.com/plone/plone.app.users"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.uuid",
+    "name": "plone.app.uuid",
+    "source_web_url": "https://github.com/plone/plone.app.uuid"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.versioningbehavior",
+    "name": "plone.app.versioningbehavior",
+    "source_web_url": "https://github.com/plone/plone.app.versioningbehavior"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.viewletmanager",
+    "name": "plone.app.viewletmanager",
+    "source_web_url": "https://github.com/plone/plone.app.viewletmanager"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.vocabularies",
+    "name": "plone.app.vocabularies",
+    "source_web_url": "https://github.com/plone/plone.app.vocabularies"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.vulnerabilities",
+    "name": "plone.app.vulnerabilities",
+    "source_web_url": "https://github.com/plone/plone.app.vulnerabilities"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.widgets",
+    "name": "plone.app.widgets",
+    "source_web_url": "https://github.com/plone/plone.app.widgets"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.workflow",
+    "name": "plone.app.workflow",
+    "source_web_url": "https://github.com/plone/plone.app.workflow"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.workflowmanager",
+    "name": "plone.app.workflowmanager",
+    "source_web_url": "https://github.com/plone/plone.app.workflowmanager"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.z3cform",
+    "name": "plone.app.z3cform",
+    "source_web_url": "https://github.com/plone/plone.app.z3cform"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.app.z3cformdrafts",
+    "name": "plone.app.z3cformdrafts",
+    "source_web_url": "https://github.com/plone/plone.app.z3cformdrafts"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.autoform",
+    "name": "plone.autoform",
+    "source_web_url": "https://github.com/plone/plone.autoform"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.batching",
+    "name": "plone.batching",
+    "source_web_url": "https://github.com/plone/plone.batching"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.behavior",
+    "name": "plone.behavior",
+    "source_web_url": "https://github.com/plone/plone.behavior"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.browserlayer",
+    "name": "plone.browserlayer",
+    "source_web_url": "https://github.com/plone/plone.browserlayer"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.cachepurging",
+    "name": "plone.cachepurging",
+    "source_web_url": "https://github.com/plone/plone.cachepurging"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.caching",
+    "name": "plone.caching",
+    "source_web_url": "https://github.com/plone/plone.caching"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.contentbrowser",
+    "name": "plone.contentbrowser",
+    "source_web_url": "https://github.com/plone/plone.contentbrowser"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.contentrules",
+    "name": "plone.contentrules",
+    "source_web_url": "https://github.com/plone/plone.contentrules"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.dexterity",
+    "name": "plone.dexterity",
+    "source_web_url": "https://github.com/plone/plone.dexterity"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.event",
+    "name": "plone.event",
+    "source_web_url": "https://github.com/plone/plone.event"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.fieldsets",
+    "name": "plone.fieldsets",
+    "source_web_url": "https://github.com/plone/plone.fieldsets"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.folder",
+    "name": "plone.folder",
+    "source_web_url": "https://github.com/plone/plone.folder"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.autocomplete",
+    "name": "plone.formwidget.autocomplete",
+    "source_web_url": "https://github.com/plone/plone.formwidget.autocomplete"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.captcha",
+    "name": "plone.formwidget.captcha",
+    "source_web_url": "https://github.com/plone/plone.formwidget.captcha"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.contenttree",
+    "name": "plone.formwidget.contenttree",
+    "source_web_url": "https://github.com/plone/plone.formwidget.contenttree"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.datetime",
+    "name": "plone.formwidget.datetime",
+    "source_web_url": "https://github.com/plone/plone.formwidget.datetime"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.multifile",
+    "name": "plone.formwidget.multifile",
+    "source_web_url": "https://github.com/plone/plone.formwidget.multifile"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.namedfile",
+    "name": "plone.formwidget.namedfile",
+    "source_web_url": "https://github.com/plone/plone.formwidget.namedfile"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.querystring",
+    "name": "plone.formwidget.querystring",
+    "source_web_url": "https://github.com/plone/plone.formwidget.querystring"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.recaptcha",
+    "name": "plone.formwidget.recaptcha",
+    "source_web_url": "https://github.com/plone/plone.formwidget.recaptcha"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.formwidget.recurrence",
+    "name": "plone.formwidget.recurrence",
+    "source_web_url": "https://github.com/plone/plone.formwidget.recurrence"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.hud",
+    "name": "plone.hud",
+    "source_web_url": "https://github.com/plone/plone.hud"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.i18n",
+    "name": "plone.i18n",
+    "source_web_url": "https://github.com/plone/plone.i18n"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.indexer",
+    "name": "plone.indexer",
+    "source_web_url": "https://github.com/plone/plone.indexer"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.intelligenttext",
+    "name": "plone.intelligenttext",
+    "source_web_url": "https://github.com/plone/plone.intelligenttext"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.jsonserializer",
+    "name": "plone.jsonserializer",
+    "source_web_url": "https://github.com/plone/plone.jsonserializer"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.keyring",
+    "name": "plone.keyring",
+    "source_web_url": "https://github.com/plone/plone.keyring"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.locking",
+    "name": "plone.locking",
+    "source_web_url": "https://github.com/plone/plone.locking"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.login",
+    "name": "plone.login",
+    "source_web_url": "https://github.com/plone/plone.login"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.memoize",
+    "name": "plone.memoize",
+    "source_web_url": "https://github.com/plone/plone.memoize"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.mocktestcase",
+    "name": "plone.mocktestcase",
+    "source_web_url": "https://github.com/plone/plone.mocktestcase"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.mockup",
+    "name": "plone.mockup",
+    "source_web_url": "https://github.com/plone/plone.mockup"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.multilingual",
+    "name": "plone.multilingual",
+    "source_web_url": "https://github.com/plone/plone.multilingual"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.multilingualbehavior",
+    "name": "plone.multilingualbehavior",
+    "source_web_url": "https://github.com/plone/plone.multilingualbehavior"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.namedfile",
+    "name": "plone.namedfile",
+    "source_web_url": "https://github.com/plone/plone.namedfile"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.openid",
+    "name": "plone.openid",
+    "source_web_url": "https://github.com/plone/plone.openid"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.outputfilters",
+    "name": "plone.outputfilters",
+    "source_web_url": "https://github.com/plone/plone.outputfilters"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.patternslib",
+    "name": "plone.patternslib",
+    "source_web_url": "https://github.com/plone/plone.patternslib"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.phonehome",
+    "name": "plone.phonehome",
+    "source_web_url": "https://github.com/plone/plone.phonehome"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.pluggableauth",
+    "name": "plone.pluggableauth",
+    "source_web_url": "https://github.com/plone/plone.pluggableauth"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.portlet.collection",
+    "name": "plone.portlet.collection",
+    "source_web_url": "https://github.com/plone/plone.portlet.collection"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.portlet.static",
+    "name": "plone.portlet.static",
+    "source_web_url": "https://github.com/plone/plone.portlet.static"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.portlets",
+    "name": "plone.portlets",
+    "source_web_url": "https://github.com/plone/plone.portlets"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.protect",
+    "name": "plone.protect",
+    "source_web_url": "https://github.com/plone/plone.protect"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.alltests",
+    "name": "plone.recipe.alltests",
+    "source_web_url": "https://github.com/plone/plone.recipe.alltests"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.codeanalysis",
+    "name": "plone.recipe.codeanalysis",
+    "source_web_url": "https://github.com/plone/plone.recipe.codeanalysis"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.haproxy",
+    "name": "plone.recipe.haproxy",
+    "source_web_url": "https://github.com/plone/plone.recipe.haproxy"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.precompiler",
+    "name": "plone.recipe.precompiler",
+    "source_web_url": "https://github.com/plone/plone.recipe.precompiler"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.squid",
+    "name": "plone.recipe.squid",
+    "source_web_url": "https://github.com/plone/plone.recipe.squid"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.unifiedinstaller",
+    "name": "plone.recipe.unifiedinstaller",
+    "source_web_url": "https://github.com/plone/plone.recipe.unifiedinstaller"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.zeoserver",
+    "name": "plone.recipe.zeoserver",
+    "source_web_url": "https://github.com/plone/plone.recipe.zeoserver"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.zope2install",
+    "name": "plone.recipe.zope2install",
+    "source_web_url": "https://github.com/plone/plone.recipe.zope2install"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.zope2instance",
+    "name": "plone.recipe.zope2instance",
+    "source_web_url": "https://github.com/plone/plone.recipe.zope2instance"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.recipe.zope2zeoserver",
+    "name": "plone.recipe.zope2zeoserver",
+    "source_web_url": "https://github.com/plone/plone.recipe.zope2zeoserver"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.registry",
+    "name": "plone.registry",
+    "source_web_url": "https://github.com/plone/plone.registry"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.relations",
+    "name": "plone.relations",
+    "source_web_url": "https://github.com/plone/plone.relations"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.releaser",
+    "name": "plone.releaser",
+    "source_web_url": "https://github.com/plone/plone.releaser"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.reload",
+    "name": "plone.reload",
+    "source_web_url": "https://github.com/plone/plone.reload"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.resource",
+    "name": "plone.resource",
+    "source_web_url": "https://github.com/plone/plone.resource"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.resourceeditor",
+    "name": "plone.resourceeditor",
+    "source_web_url": "https://github.com/plone/plone.resourceeditor"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.rest",
+    "name": "plone.rest",
+    "source_web_url": "https://github.com/plone/plone.rest"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.restapi",
+    "name": "plone.restapi",
+    "source_web_url": "https://github.com/plone/plone.restapi"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.rfc822",
+    "name": "plone.rfc822",
+    "source_web_url": "https://github.com/plone/plone.rfc822"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.scale",
+    "name": "plone.scale",
+    "source_web_url": "https://github.com/plone/plone.scale"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.schema",
+    "name": "plone.schema",
+    "source_web_url": "https://github.com/plone/plone.schema"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.schemaeditor",
+    "name": "plone.schemaeditor",
+    "source_web_url": "https://github.com/plone/plone.schemaeditor"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.seleniumtesting",
+    "name": "plone.seleniumtesting",
+    "source_web_url": "https://github.com/plone/plone.seleniumtesting"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.server",
+    "name": "plone.server",
+    "source_web_url": "https://github.com/plone/plone.server"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.session",
+    "name": "plone.session",
+    "source_web_url": "https://github.com/plone/plone.session"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.stringinterp",
+    "name": "plone.stringinterp",
+    "source_web_url": "https://github.com/plone/plone.stringinterp"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.subrequest",
+    "name": "plone.subrequest",
+    "source_web_url": "https://github.com/plone/plone.subrequest"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.supermodel",
+    "name": "plone.supermodel",
+    "source_web_url": "https://github.com/plone/plone.supermodel"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.synchronize",
+    "name": "plone.synchronize",
+    "source_web_url": "https://github.com/plone/plone.synchronize"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.testing",
+    "name": "plone.testing",
+    "source_web_url": "https://github.com/plone/plone.testing"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.theme",
+    "name": "plone.theme",
+    "source_web_url": "https://github.com/plone/plone.theme"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.themepreview",
+    "name": "plone.themepreview",
+    "source_web_url": "https://github.com/plone/plone.themepreview"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.tiles",
+    "name": "plone.tiles",
+    "source_web_url": "https://github.com/plone/plone.tiles"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.transformchain",
+    "name": "plone.transformchain",
+    "source_web_url": "https://github.com/plone/plone.transformchain"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.transforms",
+    "name": "plone.transforms",
+    "source_web_url": "https://github.com/plone/plone.transforms"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.uuid",
+    "name": "plone.uuid",
+    "source_web_url": "https://github.com/plone/plone.uuid"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.versioncheck",
+    "name": "plone.versioncheck",
+    "source_web_url": "https://github.com/plone/plone.versioncheck"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.vulnerabilitychecks.buildout",
+    "name": "plone.vulnerabilitychecks.buildout",
+    "source_web_url": "https://github.com/plone/plone.vulnerabilitychecks.buildout"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.vulnerabilitychecks.core",
+    "name": "plone.vulnerabilitychecks.core",
+    "source_web_url": "https://github.com/plone/plone.vulnerabilitychecks.core"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.vulnerabilitychecks.instance_startup",
+    "name": "plone.vulnerabilitychecks.instance_startup",
+    "source_web_url": "https://github.com/plone/plone.vulnerabilitychecks.instance_startup"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone.vulnerabilitychecks.tests",
+    "name": "plone.vulnerabilitychecks.tests",
+    "source_web_url": "https://github.com/plone/plone.vulnerabilitychecks.tests"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone4.csrffixes",
+    "name": "plone4.csrffixes",
+    "source_web_url": "https://github.com/plone/plone4.csrffixes"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone_client",
+    "name": "plone_client",
+    "source_web_url": "https://github.com/plone/plone_client"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plone_manager",
+    "name": "plone_manager",
+    "source_web_url": "https://github.com/plone/plone_manager"
+  },
+  {
+    "github_web_url": "https://github.com/plone/ploneconf.theme",
+    "name": "ploneconf.theme",
+    "source_web_url": "https://github.com/plone/ploneconf.theme"
+  },
+  {
+    "github_web_url": "https://github.com/plone/ploneorg.addonlisting",
+    "name": "ploneorg.addonlisting",
+    "source_web_url": "https://github.com/plone/ploneorg.addonlisting"
+  },
+  {
+    "github_web_url": "https://github.com/plone/ploneorg.admin",
+    "name": "ploneorg.admin",
+    "source_web_url": "https://github.com/plone/ploneorg.admin"
+  },
+  {
+    "github_web_url": "https://github.com/plone/ploneorg.core",
+    "name": "ploneorg.core",
+    "source_web_url": "https://github.com/plone/ploneorg.core"
+  },
+  {
+    "github_web_url": "https://github.com/plone/ploneorg.releasesecurityinfo",
+    "name": "ploneorg.releasesecurityinfo",
+    "source_web_url": "https://github.com/plone/ploneorg.releasesecurityinfo"
+  },
+  {
+    "github_web_url": "https://github.com/plone/ploneorg.theme",
+    "name": "ploneorg.theme",
+    "source_web_url": "https://github.com/plone/ploneorg.theme"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plonetheme-preloader",
+    "name": "plonetheme-preloader",
+    "source_web_url": "https://github.com/plone/plonetheme-preloader"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plonetheme.barceloneta",
+    "name": "plonetheme.barceloneta",
+    "source_web_url": "https://github.com/plone/plonetheme.barceloneta"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plonetheme.classic",
+    "name": "plonetheme.classic",
+    "source_web_url": "https://github.com/plone/plonetheme.classic"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plonetheme.classic-recreate",
+    "name": "plonetheme.classic-recreate",
+    "source_web_url": "https://github.com/plone/plonetheme.classic-recreate"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plonetheme.ploneorg",
+    "name": "plonetheme.ploneorg",
+    "source_web_url": "https://github.com/plone/plonetheme.ploneorg"
+  },
+  {
+    "github_web_url": "https://github.com/plone/plonetheme.sunburst",
+    "name": "plonetheme.sunburst",
+    "source_web_url": "https://github.com/plone/plonetheme.sunburst"
+  },
+  {
+    "github_web_url": "https://github.com/plone/txtfilter",
+    "name": "txtfilter",
+    "source_web_url": "https://github.com/plone/txtfilter"
+  },
+  {
+    "github_web_url": "https://github.com/plone/wicked",
+    "name": "wicked",
+    "source_web_url": "https://github.com/plone/wicked"
+  }
+]
