@@ -9,8 +9,6 @@
 cache_dir="/srv/py_cache"
 mkdir $cache_dir
 
-cd /srv/py3 || exit 1
-
 echo "start"
 /srv/ztk-py3-status/plone_packages.py > packages.json
 echo "pypi"
