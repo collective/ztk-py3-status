@@ -250,7 +250,10 @@ def main():
         packages = json.load(sys.stdin)
 
     deps = package_graph(packages, args.explicit_extras)
-    deps.remove_edges_to('setuptools') # because everything depends on it
+    # because everything depends on them
+    deps.remove_edges_to('setuptools')
+    deps.remove_edges_to('zope.component')
+    deps.remove_edges_to('zope.interface')
 
     if getattr(args, 'package_names', None):
         include = set(args.package_names)
