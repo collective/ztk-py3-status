@@ -125,11 +125,6 @@
     "source_web_url": "https://github.com/plone/Products.PloneServicesCenter"
   },
   {
-    "github_web_url": "https://github.com/plone/Products.PluggableAuthService",
-    "name": "Products.PluggableAuthService",
-    "source_web_url": "https://github.com/plone/Products.PluggableAuthService"
-  },
-  {
     "github_web_url": "https://github.com/plone/Products.PluginRegistry",
     "name": "Products.PluginRegistry",
     "source_web_url": "https://github.com/plone/Products.PluginRegistry"
