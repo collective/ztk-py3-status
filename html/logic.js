@@ -78,19 +78,10 @@
             td.addClass('vcs');
             var a_link = $('<a>');
             a_link.attr('href', primary_url);
-            a_link.addClass(uses_git ? 'git' : 'svn');
-            a_link.text(uses_git ? 'Git' : 'SVN');
+            a_link.addClass(uses_git ? 'git' : '');
+            a_link.text(uses_git ? 'Git' : '');
             td.append(a_link);
             td.appendTo(row);
-            if (pkg.svn_web_url && pkg.svn_web_url != primary_url) {
-                var a = $('<a>').attr('href', pkg.svn_web_url)
-                                  .addClass('svn secondary')
-                                  .text('(SVN)');
-                if (pkg.removed_from_svn)
-                   a.text('(svn)')
-                    .attr('title', 'moved to Github');
-                td.append(a);
-            }
             if (pkg.github_web_url && pkg.github_web_url != primary_url) {
                 var a = $('<a>').attr('href', pkg.github_web_url)
                                   .addClass('git secondary')
