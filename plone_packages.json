@@ -60,11 +60,6 @@
     "source_web_url": "https://github.com/plone/Products.CMFTestCase"
   },
   {
-    "github_web_url": "https://github.com/plone/Products.CMFUid",
-    "name": "Products.CMFUid",
-    "source_web_url": "https://github.com/plone/Products.CMFUid"
-  },
-  {
     "github_web_url": "https://github.com/plone/Products.ExtendedPathIndex",
     "name": "Products.ExtendedPathIndex",
     "source_web_url": "https://github.com/plone/Products.ExtendedPathIndex"
@@ -73,11 +68,6 @@
     "github_web_url": "https://github.com/plone/Products.FoundationMember",
     "name": "Products.FoundationMember",
     "source_web_url": "https://github.com/plone/Products.FoundationMember"
-  },
-  {
-    "github_web_url": "https://github.com/plone/Products.GenericSetup",
-    "name": "Products.GenericSetup",
-    "source_web_url": "https://github.com/plone/Products.GenericSetup"
   },
   {
     "github_web_url": "https://github.com/plone/Products.LinguaPlone",
@@ -125,11 +115,6 @@
     "source_web_url": "https://github.com/plone/Products.PloneServicesCenter"
   },
   {
-    "github_web_url": "https://github.com/plone/Products.PluginRegistry",
-    "name": "Products.PluginRegistry",
-    "source_web_url": "https://github.com/plone/Products.PluginRegistry"
-  },
-  {
     "github_web_url": "https://github.com/plone/Products.PortalTransforms",
     "name": "Products.PortalTransforms",
     "source_web_url": "https://github.com/plone/Products.PortalTransforms"
@@ -148,11 +133,6 @@
     "github_web_url": "https://github.com/plone/Products.TinyMCE",
     "name": "Products.TinyMCE",
     "source_web_url": "https://github.com/plone/Products.TinyMCE"
-  },
-  {
-    "github_web_url": "https://github.com/plone/Products.ZCatalog",
-    "name": "Products.ZCatalog",
-    "source_web_url": "https://github.com/plone/Products.ZCatalog"
   },
   {
     "github_web_url": "https://github.com/plone/Products.contentmigration",
