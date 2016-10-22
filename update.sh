@@ -35,7 +35,4 @@ for pkg in $packages; do
 
     dot -Tsvg html/deps/$pkg.dot | sponge html/deps/$pkg.svg
     dot -Tsvg html/deps-with-extras/$pkg.dot | sponge html/deps-with-extras/$pkg.svg
-
-    dot -Tpng html/deps/$pkg.dot | sponge html/deps/$pkg.png
-    dot -Tpng html/deps-with-extras/$pkg.dot | sponge html/deps-with-extras/$pkg.png
 done

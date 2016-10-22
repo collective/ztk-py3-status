@@ -15,9 +15,6 @@
     .version-column    { min-width: 1em; }
     .blockers, .blocks { min-width: 5em; }
 
-    .prefer-svg a.png  { display: none !important; }
-    .prefer-png a.svg  { display: none !important; }
-
     /* progress bar */
     progress           { border: 1px solid white; background: #fdd; }
     progress::-webkit-progress-bar   { background: #fdd; }
@@ -51,9 +48,7 @@
     /* depgraph column */
     td.depgraph                       { text-align: center; padding: 0; white-space: nowrap; }
 
-    a.png:link, a.png:visited,
     a.svg:link, a.svg:visited         { display: inline-block; text-decoration: none; padding: 2px 4px; margin-left: 1px; color: white; }
-    a.png              { background: #4c4; }
     a.svg              { background: #4cc; }
 
     /* build status column */
@@ -77,11 +72,6 @@
   <h1>Unofficial Plone on Python 3 status page</h1>
 
   <progress id="progress" style="display: none"></progress>
-
-  <div id="image-format-choice">
-    Do you prefer <a href="#" class="png" id="use-png">PNG</a> or
-    <a href="#" class="svg" id="use-svg">SVG</a>?
-  </div>
 
   <table id="support-table" class="prefer-svg">
     <tr>

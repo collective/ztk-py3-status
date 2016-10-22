@@ -1,12 +1,4 @@
   $(function() {
-    $("#use-png").click(function(e) {
-        e.preventDefault();
-        $("#support-table").removeClass("prefer-svg").addClass("prefer-png");
-    });
-    $("#use-svg").click(function(e) {
-        e.preventDefault();
-        $("#support-table").removeClass("prefer-png").addClass("prefer-svg");
-    });
     // empty strings are for spacing (because I can't figure out how to achieve that effect with CSS)
     var known_versions = ['', '2.7', '', '3.3', '3.4', '3.5', '3.6', '', 'PyPy', ''];
     $.getJSON('data.json', function(data, textStatus, jqXHR) {
@@ -163,9 +155,6 @@
             // dependency graph
             td = $('<td>')
                   .addClass('depgraph')
-                  .append($('<a>').attr('href', 'deps/' + pkg.name + '.png')
-                                  .addClass('png')
-                                  .text('PNG'))
                   .append($('<a>').attr('href', 'deps/' + pkg.name + '.svg')
                                   .addClass('svg')
                                   .text('SVG'))
@@ -173,9 +162,6 @@
             // dependency graph (with extras)
             td = $('<td>')
                   .addClass('depgraph')
-                  .append($('<a>').attr('href', 'deps-with-extras/' + pkg.name + '.png')
-                                  .addClass('png')
-                                  .text('PNG'))
                   .append($('<a>').attr('href', 'deps-with-extras/' + pkg.name + '.svg')
                                   .addClass('svg')
                                   .text('SVG'))
@@ -187,7 +173,7 @@
                 pkg.github_web_url.slice(0, 19) == "https://github.com/") {
                 var travis_url = 'https://travis-ci.org/' + pkg.github_web_url.slice(19);
                 td.append($('<a>').attr('href', travis_url)
-                                  .append($('<img>').attr('src', travis_url + '.png?branch=master')));
+                                  .append($('<img>').attr('src', travis_url + '.svg?branch=master')));
             }
             td.appendTo(row);
             // that's it for this row
