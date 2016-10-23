@@ -308,46 +308,20 @@ COLLECTIVE_PACKAGES = [
   'Products.SecureMailHost',
 ]
 LOWERCASE_PACKAGES = [x.lower() for x in PACKAGES]
-FINAL_PACKAGES = []
-MISSING_PACKAGES = [
-  'Chameleon',
-  'cssmin',
-  'cssselect',
-  'decorator',
-  'docutils',
-  'feedparser',
-  'future',
-  'lxml',
-  'mailinglogger',
-  'Markdown',
-  'mechanize',
-  'mockup',
-  'Pillow',
-  'ply',
-  'python_dateutil',
-  'python_gettext',
-  'pytz',
-  'repoze.xmliter',
-  'setuptools',
-  'six',
-  'slimit',
-  'sourcecodegen',
-  'Unidecode',
-  'z3c.caching',
-  'z3c.objpath',
-  'z3c.zcmlhook',
-  'zc.buildout',
-  'zc.recipe.egg',
-  'zope.broken',
-]
+MISSING_PACKAGES = LOWERCASE_PACKAGES[:]
 
+FINAL_PACKAGES = []
 
 plone_packages = json.load(open('plone_packages.json'))
 zope_packages = json.load(open('zope_packages.json'))
-
+github_packages = {}
 for pkg in plone_packages + zope_packages:
-    if pkg['name'].lower() in LOWERCASE_PACKAGES:
-        FINAL_PACKAGES.append(pkg)
+    github_packages[pkg['name'].lower()] = pkg
+
+for pkg in LOWERCASE_PACKAGES:
+    if pkg in github_packages:
+        FINAL_PACKAGES.append(github_packages[pkg])
+        MISSING_PACKAGES.remove(pkg)
 
 for pkg in MISSING_PACKAGES:
     FINAL_PACKAGES.append(
