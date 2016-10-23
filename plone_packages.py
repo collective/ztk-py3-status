@@ -99,7 +99,7 @@ PACKAGES = [
 
   # zope packages
   'ZODB3',
-  'Zope',
+  'Zope2',
   'zope.annotation',
   'zope.app.appsetup',
   'zope.app.intid',
@@ -321,6 +321,11 @@ for pkg in plone_packages + zope_packages:
 for pkg in LOWERCASE_PACKAGES:
     if pkg in github_packages:
         FINAL_PACKAGES.append(github_packages[pkg])
+        MISSING_PACKAGES.remove(pkg)
+    elif pkg == 'zope2':
+        data = github_packages['zope']
+        data['name'] = 'Zope2'
+        FINAL_PACKAGES.append(data)
         MISSING_PACKAGES.remove(pkg)
 
 for pkg in MISSING_PACKAGES:
