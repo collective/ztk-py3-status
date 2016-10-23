@@ -36,3 +36,5 @@ for pkg in $packages; do
     dot -Tsvg html/deps/$pkg.dot | sponge html/deps/$pkg.svg
     dot -Tsvg html/deps-with-extras/$pkg.dot | sponge html/deps-with-extras/$pkg.svg
 done
+
+cp deps.dot html/deps.dot
