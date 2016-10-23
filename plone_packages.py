@@ -4,6 +4,7 @@ import json
 
 
 PACKAGES = [
+  # plone packages
   'Plone',
   'plone.alterego',
   'plone.api',
@@ -90,7 +91,7 @@ PACKAGES = [
   'plonetheme.barceloneta',
   'Products.CMFPlone',
 
-
+  # zope packages
   'ZODB3',
   'Zope',
   'zope.annotation',
@@ -148,7 +149,7 @@ PACKAGES = [
   'zope.viewlet',
   'ZopeUndo',
 
-
+  # products
   'Products.Archetypes',
   'Products.ATContentTypes',
   'Products.BTreeFolder2',
@@ -186,7 +187,7 @@ PACKAGES = [
   'Products.ZopeVersionControl',
   'Products.ZSQLMethods',
 
-
+  # other zopeish packages
   'AccessControl',
   'Acquisition',
   'archetypes.multilingual',
@@ -229,7 +230,7 @@ PACKAGES = [
   'zExceptions',
   'zLOG',
 
-
+  # externals
   'cssmin',
   'cssselect',
   'decorator',
