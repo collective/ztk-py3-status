@@ -10,7 +10,7 @@ cache_dir="/srv/py_cache"
 mkdir $cache_dir
 
 echo "start"
-/srv/ztk-py3-status/plone_packages.py > packages.json
+/srv/ztk-py3-status/plone_packages.py
 echo "pypi"
 /srv/ztk-py3-status/get_pypi_status.py --cache-max-age=300 < packages.json | sponge status.json
 echo "deps"
