@@ -7,6 +7,8 @@ Usage:
 
   ./update.sh
 
+Or you can see the status online at http://jenkins.plone.org/py3/
+
 This takes a while
 (8 minutes just to get PyPI status; more to download source distributions).
 
