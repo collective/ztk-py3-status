@@ -1,5 +1,5 @@
-Scripts to know the status of Plone regarding Python 3 porting
-==============================================================
+Plone on Python 3 porting status
+================================
 
 Usage:
 
