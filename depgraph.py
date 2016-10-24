@@ -238,6 +238,8 @@ def main():
         help='highlight the dependency chain that pulls in PACKAGE')
     parser.add_argument('--requiring', metavar='PACKAGE',
         help='show only the dependency chain that pulls in PACKAGE')
+    parser.add_argument('-r', '--reverse', action='store_true',
+                        help='get the reverse dependencies of the given package')
     args = parser.parse_args()
 
     if not hasattr(args, 'input') and sys.stdin.isatty():
@@ -249,15 +251,27 @@ def main():
     else:
         packages = json.load(sys.stdin)
 
+    reverse = getattr(args, 'reverse')
+    package_names = getattr(args, 'package_names', None)
+    if reverse:
+        if not package_names or len(package_names) != 1:
+            parser.error(
+                'For reverse dependencies a single package must be given'
+            )
+
     deps = package_graph(packages, args.explicit_extras)
     # because everything depends on them
     deps.remove_edges_to('setuptools')
     deps.remove_edges_to('zope.component')
     deps.remove_edges_to('zope.interface')
 
-    if getattr(args, 'package_names', None):
-        include = set(args.package_names)
-        title = "{} deps".format(" ".join(args.package_names))
+    if package_names:
+        include = set(package_names)
+        if reverse:
+            title = "{} reverse deps".format(" ".join(args.package_names))
+        else:
+            title = "{} deps".format(" ".join(args.package_names))
+
         for pkg in args.package_names:
             if pkg not in deps.nodes:
                 print("{}: unknown package: {}".format(parser.prog, pkg),
@@ -274,13 +288,14 @@ def main():
     for node in deps.ghost_nodes:
         deps.add_node(node)
 
-    include = deps.transitive_closure(include)
+    if not reverse:
+        include = deps.transitive_closure(include)
 
-    if args.explicit_extras:
-        new = {node for node in deps.nodes if base_name(node) in include}
-        while new != include:
-            include = deps.transitive_closure(new)
+        if args.explicit_extras:
             new = {node for node in deps.nodes if base_name(node) in include}
+            while new != include:
+                include = deps.transitive_closure(new)
+                new = {node for node in deps.nodes if base_name(node) in include}
 
     if args.requiring:
         rdeps = deps.transposed()
@@ -315,6 +330,15 @@ def main():
         graph.options('edge', arrowhead="open", arrowsize=0.3)
     graph.options('node', color="#dddddd", fillcolor="#e8e8e880")
     graph.options('edge', color="#cccccc")
+    if reverse:
+        print_reverse_graph(deps, package_names, highlight, graph)
+    else:
+        print_direct_graph(deps, include, highlight, graph, big_nodes,
+                           highlight_edges, args)
+    graph.end()
+
+
+def print_direct_graph(deps, include, highlight, graph, big_nodes, highlight_edges, args):
     for node in deps.nodes:
         if node not in include:
             continue
@@ -347,7 +371,29 @@ def main():
             if deps.edge_attrs(node, edge).get('tight'):
                 attrs['weight'] = 10
             graph.edge(node, edge, **attrs)
-    graph.end()
+
+
+def print_reverse_graph(deps, package_names, highlight, graph):
+    main_node = package_names[0]
+    for node in deps.nodes:
+        if node == main_node:
+            attrs = {}
+            supports_py3 = deps.node_attrs(node).get('supports_py3')
+            if supports_py3:
+                attrs['color'] = "#ccffcc"
+                attrs['fillcolor'] = "#ddffdd80"
+            elif supports_py3 is not None:
+                attrs['color'] = "#ffcccc"
+                attrs['fillcolor'] = "#ffdddd80"
+            if node in highlight:
+                attrs['color'] = "#ff8c00"
+            graph.node(node, **attrs)
+        elif base_name(node) == main_node:
+            continue
+        elif main_node in deps.edges(node) or \
+                deps.edge_attrs(main_node, node).get('extra'):
+
+            graph.edge(main_node, node)
 
 
 if __name__ == '__main__':

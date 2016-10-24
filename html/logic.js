@@ -18,6 +18,7 @@
             '<col class="blocks"></col>' +
             '<col class="depgraph"></col>' +
             '<col class="depgraph"></col>' +
+            '<col class="depgraph"></col>' +
             '<col class="buildstatus"></col>' +
           '</colgroup>' +
           '<thead>' +
@@ -31,6 +32,7 @@
               '<th class="blocks" rowspan="2" title="Packages that cannot be ported to Python 3 yet because they depend on this package">Blocks</th>' +
               '<th class="depgraph" rowspan="2">Dep. Graph</th>' +
               '<th class="depgraph" rowspan="2">(incl. extras)</th>' +
+              '<th class="depgraph" rowspan="2">(reverse)</th>' +
               '<th class="buildstatus" rowspan="2">Build status</th>' +
             '</tr>' +
             '<tr>' +
@@ -154,6 +156,13 @@
             td = $('<td>')
                   .addClass('depgraph')
                   .append($('<a>').attr('href', 'deps-with-extras/' + pkg.name + '.svg')
+                                  .addClass('svg')
+                                  .text('SVG'))
+                  .appendTo(row);
+            // reverse dependencies graph (with extras)
+            td = $('<td>')
+                  .addClass('depgraph')
+                  .append($('<a>').attr('href', 'deps-reverse/' + pkg.name + '.svg')
                                   .addClass('svg')
                                   .text('SVG'))
                   .appendTo(row);

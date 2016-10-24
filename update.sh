@@ -27,14 +27,17 @@ convert html/deps.png -resize 128x128 - | sponge html/deps-thumb.png
 
 mkdir -p html/deps/
 mkdir -p html/deps-with-extras/
+mkdir -p html/deps-reverse/
 packages=$(/srv/ztk-py3-status/list_packages.py < html/data.json)
 for pkg in $packages; do
     echo "graphs for $pkg"
     /srv/ztk-py3-status/depgraph.py $pkg -b < html/data.json | sponge html/deps/$pkg.dot
     /srv/ztk-py3-status/depgraph.py $pkg -a -e < html/data.json | sponge html/deps-with-extras/$pkg.dot
+    /srv/ztk-py3-status/depgraph.py $pkg -b -r --explicit-extras < html/data.json | sponge html/deps-reverse/$pkg.dot
 
     dot -Tsvg html/deps/$pkg.dot | sponge html/deps/$pkg.svg
     dot -Tsvg html/deps-with-extras/$pkg.dot | sponge html/deps-with-extras/$pkg.svg
+    dot -Tsvg html/deps-reverse/$pkg.dot | sponge html/deps-reverse/$pkg.svg
 done
 
 cp deps.dot html/deps.dot
