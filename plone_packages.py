@@ -192,7 +192,6 @@ PACKAGES = [
   'Products.PasswordResetTool',
   'Products.PlacelessTranslationService',
   'Products.PlonePAS',
-  'Products.PloneTestCase',
   'Products.PluggableAuthService',
   'Products.PluginRegistry',
   'Products.PortalTransforms',
