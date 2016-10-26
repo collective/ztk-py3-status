@@ -299,12 +299,10 @@ PACKAGES = [
   'zc.buildout',
 ]
 COLLECTIVE_PACKAGES = [
-  'collective.elephantvocabulary',
   'collective.xmltestreport',
   'icalendar',
   'plone.app.locales',
   'Products.DateRecurringIndex',
-  'Products.SecureMailHost',
 ]
 LOWERCASE_PACKAGES = [x.lower() for x in PACKAGES]
 MISSING_PACKAGES = LOWERCASE_PACKAGES[:]
