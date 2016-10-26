@@ -98,7 +98,7 @@ PACKAGES = [
   'Products.CMFPlone',
 
   # zope packages
-  'ZODB3',
+  'ZODB',
   'Zope2',
   'zope.annotation',
   'zope.app.appsetup',
