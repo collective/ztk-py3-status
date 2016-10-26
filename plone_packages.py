@@ -267,7 +267,6 @@ PACKAGES = [
   'robotframework_selenium2library',
   'robotsuite',
   'selenium',
-  'unittest2',
   'watchdog',
 
   # externals
