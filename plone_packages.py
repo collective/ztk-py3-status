@@ -184,7 +184,6 @@ PACKAGES = [
   'Products.ExternalEditor',
   'Products.ExternalMethod',
   'Products.GenericSetup',
-  'Products.i18ntestcase',
   'Products.MailHost',
   'Products.Marshall',
   'Products.MIMETools',
