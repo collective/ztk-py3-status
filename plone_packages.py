@@ -131,7 +131,6 @@ PACKAGES = [
   'zope.event',
   'zope.exceptions',
   'zope.filerepresentation',
-  'zope.formlib',
   'zope.globalrequest',
   'zope.i18n',
   'zope.i18nmessageid',
@@ -189,7 +188,6 @@ PACKAGES = [
   'Products.MIMETools',
   'Products.MimetypesRegistry',
   'Products.OFSP',
-  'Products.PasswordResetTool',
   'Products.PlacelessTranslationService',
   'Products.PlonePAS',
   'Products.PluggableAuthService',
@@ -238,7 +236,6 @@ PACKAGES = [
   'transaction',
   'z3c.autoinclude',
   'z3c.caching',
-  'z3c.coverage',
   'z3c.form',
   'z3c.formwidget.query',
   'z3c.objpath',
@@ -256,8 +253,7 @@ PACKAGES = [
   'zLOG',
 
   # testing
-  'coverage',
-  'FormEncode',
+   'FormEncode',
   'manuel',
   'mock',
   'robotframework',
