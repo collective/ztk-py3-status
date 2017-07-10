@@ -1,6 +1,6 @@
   $(function() {
     // empty strings are for spacing (because I can't figure out how to achieve that effect with CSS)
-    var known_versions = ['', '2.7', '', '3.3', '3.4', '3.5', '3.6', '', 'PyPy', ''];
+    var known_versions = ['', '2.7', '', '3.5', '3.6', '', 'PyPy', ''];
     $.getJSON('data.json', function(data, textStatus, jqXHR) {
         var tbl = $('#support-table');
         tbl.html(
