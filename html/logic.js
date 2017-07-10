@@ -55,7 +55,7 @@
             if (r == 0) r = (a.name < b.name ? -1 : 1); // assume a.name != b.name
             return r;
         });
-        var pypi_url = 'https://pypi.python.org/pypi/';
+        var pypi_url = 'https://pypi.org/project/';
         var count_py3 = 0, count_nopy3 = 0, count_unreleased = 0;
         var filter = null;
         $.each(location.search.slice(1).split(';'), function(idx, arg) {
