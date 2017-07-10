@@ -149,6 +149,7 @@
             td = $('<td>')
                   .addClass('depgraph')
                   .append($('<a>').attr('href', 'deps/' + pkg.name + '.svg')
+                                  .attr('title', 'Dependency graph')
                                   .addClass('svg')
                                   .text('SVG'))
                   .appendTo(row);
@@ -156,6 +157,7 @@
             td = $('<td>')
                   .addClass('depgraph')
                   .append($('<a>').attr('href', 'deps-with-extras/' + pkg.name + '.svg')
+                                  .attr('title', 'Dependency graph (with extras)')
                                   .addClass('svg')
                                   .text('SVG'))
                   .appendTo(row);
@@ -163,6 +165,7 @@
             td = $('<td>')
                   .addClass('depgraph')
                   .append($('<a>').attr('href', 'deps-reverse/' + pkg.name + '.svg')
+                                  .attr('title', 'Reverse dependency graph (with extras)')
                                   .addClass('svg')
                                   .text('SVG'))
                   .appendTo(row);
