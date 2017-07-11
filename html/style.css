@@ -144,7 +144,19 @@ td.buildstatus                    { padding-top: 0; padding-bottom: 0; }
 td.buildstatus img                { vertical-align: middle; }
 
 /* highlight on hover */
-tbody > tr:hover   { background: #ffd; }
+tbody > tr:hover,
+tbody > td.zope_package:hover,
+tbody > td.plone_package:hover {
+  background: #ffd;
+}
+
+tbody > td.zope_package   { background: #a1b2cd; }
+tbody > td.plone_package   { background: #6587d3; }
+
+.zope_package a,
+.plone_package a {
+  color: white;
+}
 
 /* sidebar */
 

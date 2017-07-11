@@ -71,8 +71,13 @@
             // package name
             td = $('<td>')
                   .append(pkg.version ? $('<a>').text(pkg.name).attr('href', pypi_url + pkg.name)
-                                      : pkg.name)
-                  .appendTo(row);
+                                      : pkg.name);
+            if (pkg.github_web_url && pkg.github_web_url.indexOf('github.com/plone/') != -1) {
+                td.addClass('plone_package');
+            } else if (pkg.github_web_url && pkg.github_web_url.indexOf('github.com/zopefoundation/') != -1) {
+                td.addClass('zope_package');
+            }
+            td.appendTo(row);
             // package vcs
             var uses_git = (pkg.github_web_url && (!pkg.svn_web_url || pkg.removed_from_svn));
             var primary_url = uses_git ? pkg.github_web_url : pkg.svn_web_url;
