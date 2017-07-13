@@ -11,7 +11,7 @@ buildout -c core.cfg, i.e.:
     cd test
     virtualenv-2.7 .
     source bin/activate
-    pip install -r requirementx.txt
+    pip install -r requirements.txt
     buildout -c core.cfg
 
 Then run this script and update plone_packages.py accordingly to the output.
