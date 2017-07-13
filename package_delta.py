@@ -12,6 +12,7 @@ buildout -c core.cfg, i.e.:
     virtualenv-2.7 .
     source bin/activate
     pip install -r requirements.txt
+    echo "git-clone-depth = 50" >> checkouts.cfg
     buildout -c core.cfg
 
 Then run this script and update plone_packages.py accordingly to the output.
