@@ -263,7 +263,6 @@ PACKAGES = [
   'mock',
   'robotframework',
   'robotframework_debuglibrary',
-  'robotframework_ride',
   'robotframework_selenium2library',
   'robotsuite',
   'selenium',
