@@ -14,6 +14,9 @@ buildout -c core.cfg, i.e.:
     pip install -r requirements.txt
     echo "git-clone-depth = 50" >> checkouts.cfg
     buildout -c core.cfg
+    deactivate
+    cd ../ztk-py3-status
+    python package_delta.py
 
 Then run this script and update plone_packages.py accordingly to the output.
 """
