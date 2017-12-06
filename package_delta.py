@@ -8,7 +8,7 @@ It needs a checkout of buildout.coredev branch 5.1 in ../test after running
 buildout -c core.cfg, i.e.:
     cd ..
     rm -rf test
-    git clone --depth 1 git@github.com:plone/buildout.coredev test
+    git clone --depth 1 git@github.com:plone/buildout.coredev -b 5.2 test
     cd test
     virtualenv-2.7 .
     source bin/activate
