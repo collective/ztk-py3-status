@@ -133,7 +133,7 @@
             td = $('<td>')
                   .addClass('blockers')
                   .text(blockers.length)
-                  .attr('title', blockers.join('\n'))
+                  .attr('title', 'Blockers:\n' + blockers.join('\n'))
                   .appendTo(row);
             if (pkg.supports_py3 || !pkg.version)
                 td.addClass('blockers-na')
@@ -144,7 +144,7 @@
             td = $('<td>')
                   .addClass('blocks')
                   .text(blocks.length)
-                  .attr('title', blocks.join('\n'))
+                  .attr('title', 'Block:\n' + blocks.join('\n'))
                   .appendTo(row);
             if (pkg.supports_py3 || !pkg.version)
                 td.addClass('blocks-na')
