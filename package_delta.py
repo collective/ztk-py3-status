@@ -10,11 +10,11 @@ buildout -c core.cfg, i.e.:
     rm -rf test
     git clone --depth 1 git@github.com:plone/buildout.coredev -b 5.2 test
     cd test
-    virtualenv-2.7 .
-    source bin/activate
+    python3.6 -m venv .
+    . bin/activate
     pip install -r requirements.txt
     echo "git-clone-depth = 50" >> checkouts.cfg
-    buildout -c core.cfg
+    buildout -c py3.cfg
     deactivate
     cd ../ztk-py3-status
     python package_delta.py
