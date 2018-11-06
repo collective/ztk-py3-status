@@ -34,10 +34,7 @@ class Error(Exception):
     """An error that is not a bug in this script."""
 
 
-PYPI_SERVER = 'https://pypi.python.org/pypi'
-
-# For testing against the new Warehouse software:
-# PYPI_SERVER = 'https://pypi-preview.a.ssl.fastly.net/pypi'
+PYPI_SERVER = 'https://pypi.org/pypi'
 
 # PyPI API is documented at http://wiki.python.org/moin/PyPiJson
 # (or you can use XMLRPC: http://wiki.python.org/moin/PyPiXmlRpc)
