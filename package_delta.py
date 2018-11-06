@@ -14,7 +14,7 @@ buildout -c core.cfg, i.e.:
     . bin/activate
     pip install -r requirements.txt
     echo "git-clone-depth = 50" >> checkouts.cfg
-    buildout -c py3.cfg
+    buildout -c buildout-py3.cfg
     deactivate
     cd ../ztk-py3-status
     python package_delta.py
