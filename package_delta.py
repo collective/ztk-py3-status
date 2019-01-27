@@ -7,7 +7,7 @@ Script to update the manual list of packages maintained in plone_packages.py.
 It needs a checkout of buildout.coredev branch 5.2 in ../test after running
 buildout -c core.cfg, i.e.:
     cd ..
-    rm -rf test
+    rm -rf test > /dev/null
     git clone --depth 1 git@github.com:plone/buildout.coredev -b 5.2 test
     cd test
     python3.6 -m venv .
