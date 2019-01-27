@@ -175,7 +175,6 @@ PACKAGES = [
   'Products.statusmessages',
   'Products.TemporaryFolder',
   'Products.ZCatalog',
-  'Products.ZCTextIndex',
   'Products.ZopeVersionControl',
 
   # other zopeish packages
@@ -264,7 +263,6 @@ PACKAGES = [
   'setuptools',
   'simplejson',
   'six',
-  'slimit',
   'Unidecode',
   'urllib3',
   'waitress',
